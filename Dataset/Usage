@@ -1,0 +1,2 @@
+For LSTM use the unedited part since LSTM requires more balanced dataset for val_accuracy.
+For MultiLayerANN use the intent_2 file.
