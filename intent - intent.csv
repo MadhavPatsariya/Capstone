@@ -1,0 +1,811 @@
+patterns,response,tags
+Hi,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+How are you,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+How you are,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+anyone Present Is,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+anyone Is Present,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+Good Day,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+up Whats,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+How Do You do,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+do Do You How,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+Do do You How,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+How Do do You,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+Hey,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+Hello,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+Greetings,"['Hello Human', 'Good To See You Again', 'Hey, How Can I Help You', 'Welcome HomoSapien']",greetings
+Goodbye,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Again See you,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+See you Again,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Ciao,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Hasta Vista La,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Hasta La Vista,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Au Revior,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+am I Leaving,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Leaving I am,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Help Thanks The For,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Help Thanks For The,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Thanks For Help The,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Thanks Help The For,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Have A Good Day,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Good Day A Have,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Have Good A Day,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Good A Have Day,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Care Take,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Take Care,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+Thanks,"['Thanks For The Talk', 'Hopefully Wont see you soon', 'Talk to You Later', 'GoodBye', 'BayMin - The MediBot At Your Service, Anytime Anyplace Anywhere']",bye
+made you Who,['I was Created My Mathew Jose(MJ)'],creator
+Who you made,['I was Created My Mathew Jose(MJ)'],creator
+Who made you,['I was Created My Mathew Jose(MJ)'],creator
+Your is Father Who,['I was Created My Mathew Jose(MJ)'],creator
+Father Your Who is,['I was Created My Mathew Jose(MJ)'],creator
+is Father Your Who,['I was Created My Mathew Jose(MJ)'],creator
+Who Father is Your,['I was Created My Mathew Jose(MJ)'],creator
+Who is Creator your,['I was Created My Mathew Jose(MJ)'],creator
+Who Creator is your,['I was Created My Mathew Jose(MJ)'],creator
+Creator your is Who,['I was Created My Mathew Jose(MJ)'],creator
+Creator your Who is,['I was Created My Mathew Jose(MJ)'],creator
+Creator,['I was Created My Mathew Jose(MJ)'],creator
+Father,['I was Created My Mathew Jose(MJ)'],creator
+whats Your Age,"[""That's A Little Personal Don't You Think :D""]",age
+Your Age whats,"[""That's A Little Personal Don't You Think :D""]",age
+How Old Are You,"[""That's A Little Personal Don't You Think :D""]",age
+How Old,"[""That's A Little Personal Don't You Think :D""]",age
+Age,"[""That's A Little Personal Don't You Think :D""]",age
+You do can What,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+You What do can,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+What do can You,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+You What can do,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+is Functionalities What Your,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+Your Functionalities What is,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+What Your Functionalities is,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+is Your What Functionalities,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+functions,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+abilities,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+Uses,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+Tell Me you What do,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+Me you What do Tell,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+What Me do Tell you,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+Me you do Tell What,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+do Tell Me What you,['I am A Medical Bot Which Listens To Your Symptoms  Tells You WIth Disease With You Show Higest Probablity Of Being Affected By.'],functions
+What to do if Cuts?,,Cuts
+How to cure Cuts?,,Cuts
+Which medicine to apply for Cuts?,,Cuts
+what to apply on cuts?,,Cuts
+Cuts,,Cuts
+how do you treat abrasions?,,Abrasions
+Do Abrasions cause scars?,,Abrasions
+Abrasions,,Abrasions
+what to do if abrasions?,,Abrasions
+Which medicine to apply for abrasions?,,Abrasions
+How to cure abrasions?,,Abrasions
+How do you treat Sting?,,Stings
+Stings,,Stings
+What to do if you get a sting?,,Stings
+Which medicine to apply if sting?,,Stings
+How to remove Splinters,,Splinter
+How to cure Splinters?,,Splinter
+What to do if I have splinters?,,Splinter
+How do you bring a splinter to the surface?,,Splinter
+How do you treat a sprain?,,Sprains
+what to do if i get a sprain?,,Sprains
+Which cream to apply if i get a sprain?,,Sprains
+Which medicine to apply if I get a sprain?,,Sprains
+How do you treat a strain?,,Strains
+what to do if i get a strain?,,Strains
+Which cream to apply if i get a strain?,,Strains
+Which medicine to apply if I get a strain?,,Strains
+How do you diagnose a strain?,,Strains
+Is heat or ice better for a pulled muscle?,,Strains
+How do you treat a mild Fever?,,Fever
+what to do if i get a mild fever?,,Fever
+Which medicine to take if I get a mild fever?,,Fever
+fever,,Fever
+How do you treat nasal Congestion?,,NasalCongestion
+what to do if i get a nasal congestion?,,NasalCongestion
+Which medicine to take if I have a nasal congestion?,,NasalCongestion
+what to do if i have a blocked nose?,,NasalCongestion
+How do you treat a blocked nose?,,NasalCongestion
+How long does nasal congestion last?,,NasalCongestion
+How to cure cough?,,Cough
+How do you treat cough?,,Cough
+what to do if i get a cough?,,Cough
+Which medicine to take if I get cough?,,Cough
+How do you get rid of cough?,,Cough
+How do you treat sore throat?,,SoreThroat
+what to do if i get a sore throat?,,SoreThroat
+Which medicine to take if I get a sore throat?,,SoreThroat
+How to cure sore throat?,,SoreThroat
+How do you treat gas problems?,,GastrointestinalProblems
+what to do if i have Gastrointestinal problems?,,GastrointestinalProblems
+Which medicine to take if I get gas problem?,,GastrointestinalProblems
+How to cure Gas problems?,,GastrointestinalProblems
+How do you treat Skin problems?,,SkinProblems
+what to do if i get a skin allergy?,,SkinProblems
+Which medicine to take if I get a skin allergy?,,SkinProblems
+How to cure skin allergy?,,SkinProblems
+How do you treat Abdonominal Pain?,,AbdonominalPain
+what to do if i get a Abdonominal Pain?,,AbdonominalPain
+Which medicine to take if I get a Abdonominal Pain?,,AbdonominalPain
+How to cure Abdonominal Pain?,,AbdonominalPain
+How do you treat Bruises?,,Bruises
+what to do if i get a Bruise?,,Bruises
+Which medicine to take if I get a Bruise?,,Bruises
+How to cure Bruises?,,Bruises
+How do you treat a Broken Toe?,,BrokenToe
+what to do if i get a Broken Toe?,,BrokenToe
+Which medicine to take if I get a Broken Toe?,,BrokenToe
+How to cure Broken Toe?,,BrokenToe
+How do you treat Choking?,,Choking
+what to do if i get a Choke?,,Choking
+Which medicine to take if I get Choked?,,Choking
+How to cure Choking?,,Choking
+How do you treat a wound?,,Wound
+what to do if i get a Wound?,,Wound
+Which medicine to take if I get wounded?,,Wound
+How to cure a wound?,,Wound
+How do you treat Diarrhea?,,Diarrhea
+what to do if i get Diarrhea?,,Diarrhea
+Which medicine to take if I get Diarrhea?,,Diarrhea
+How to cure Diarrhea?,,Diarrhea
+How do you treat a Frost bite?,,FrostBite
+what to do if i get a Frost bite?,,FrostBite
+Which medicine to take if I get a Frost bite?,,FrostBite
+How to cure Frost bite?,,FrostBite
+How do you treat Heat Exhaustion?,,HeatExhaustion
+what to do if i feel Exhausted due to heat?,,HeatExhaustion
+Which medicine to take if I get Exhausted?,,HeatExhaustion
+How to cure Heat Exhaustion?,,HeatExhaustion
+How do you treat Heat Stroke?,,HeatStroke
+what to do if i get a Heat Stroke?,,HeatStroke
+Which medicine to take if I get Stroke?,,HeatStroke
+How to cure a Heat Stroke?,,HeatStroke
+How do you treat a Insect Bite?,,InsectBites
+what to do if a insect bites me?,,InsectBites
+Which medicine to take if I get bitten by a insect?,,InsectBites
+How to cure insect bite?,,InsectBites
+How do you treat a bleeding nose?,,nosebleed
+what to do if i my nose is bleeding?,,nosebleed
+Which medicine to take if I get nose bleed?,,nosebleed
+How to cure nose bleeding?,,nosebleed
+How do you treat a Pulled Muscle?,,PulledMuscle
+what to do if my muscle is pulled?,,PulledMuscle
+Which medicine to take if I got pulled muscle?,,PulledMuscle
+How to cure a pulled muscle?,,PulledMuscle
+How do you treat Rectal Bleeding?,,Rectalbleeding
+what to do if i get a Rectal Bleeding?,,Rectalbleeding
+Which medicine to take if I get Rectal Bleeding?,,Rectalbleeding
+How to cure Rectal Bleeding?,,Rectalbleeding
+How do you treat Sun Burn?,,SunBurn
+what to do if i get a Sun Burn?,,SunBurn
+Which medicine to take if I get Sun Burn?,,SunBurn
+How to cure a Sun Burn?,,SunBurn
+How do you treat Testicle Pain?,,TesticlePain
+what to do if i get a Testicle Pain?,,TesticlePain
+Which medicine to take if I get a Testicle Pain?,,TesticlePain
+How to cure Testicle Pain?,,TesticlePain
+How do you treat a Vertigo?,,Vertigo
+what to do if i get a Vertigo?,,Vertigo
+Which medicine to take if I get Vertigo?,,Vertigo
+How to cure a Vertigo?,,Vertigo
+How do you treat bleeding?,,NormalBleeding
+what to do if i get a Bleeding?,,NormalBleeding
+Which medicine to take if I get bleeding?,,NormalBleeding
+How to cure Bleeding?,,NormalBleeding
+How do you treat an eye Injury?,,EyeInjury
+what to do if i get a eye Injury?,,EyeInjury
+Which medicine to take if I injured my eye?,,EyeInjury
+How to cure injured eye?,,EyeInjury
+How do you treat a chemical burn?,,ChemicalBurn
+what to do if i get a Chemical Burn?,,ChemicalBurn
+Which medicine to take if I get burn due to chemicals?,,ChemicalBurn
+How to cure Chemical Burn?,,ChemicalBurn
+How do you treat a Poison?,,Poison
+what to do if i get Poison?,,Poison
+Which medicine to take if I am poisoned?,,Poison
+How to cure Poisoning?,,Poison
+How do you treat broken Teeth ?,,Teeth
+what to do if my Teeth got broken?,,Teeth
+Which medicine to take if I get broken teeth?,,Teeth
+cure broken teeth?,,Teeth
+How do you treat a seizure?,,Seizure
+what to do if i get a seizure?,,Seizure
+Which medicine to take if I get seizure?,,Seizure
+How to cure seizure?,,Seizure
+How do you treat a head Injury?,,HeadInjury
+what to do if i get a Head Injury?,,HeadInjury
+Which medicine to take if I get injured in the head?,,HeadInjury
+How to cure Head Injury?,,HeadInjury
+How do you treat Faint?,,Fainting
+what to do if i feel like Fainting?,,Fainting
+Which medicine to take if I get a Faint?,,Fainting
+How to cure Fainting?,,Fainting
+How do you treat a mild Headache?,,Headache
+what to do if i get a mild Headache?,,Headache
+Which medicine to take if I have a mild headache?,,Headache
+How to cure a mild headache?,,Headache
+How do you treat a Cold?,,Cold
+what to do if i get a mild Cold?,,Cold
+Which medicine to take if I have a Cold?,,Cold
+How to cure Cold?,,Cold
+How do you treat Rashes?,,Rash
+what to do if i get a Rash?,,Rash
+Which medicine to take if I have a Rash?,,Rash
+How to cure Rash?,,Rash
+How do you treat a snake bite?,,snakebite
+what to do if i get a snake bite?,,snakebite
+Which medicine to take if I get a snake bite?,,snakebite
+How to cure snake bite?,,snakebite
+i got bit by a snake,,snakebite
+How do you treat a animal bite?,,animalbite
+How do you treat a monkey bite?,,animalbite
+How do you treat a dog bite?,,animalbite
+what to do if i get a animal bite?,,animalbite
+Which medicine to take if I get a monekey bite?,,animalbite
+How to cure dog bite?,,animalbite
+i got bit by a dog,,animalbite
+What to do if someone is Drowning?,,Drowning
+what to do if someone drowned?,,Drowning
+What steps to take if i see a drowning person?,,Drowning
+How to help a drowning person?,,Drowning
+How to give CPR??,,CPR
+what to do in a CPR?,,CPR
+What steps to take in a CPR??,,CPR
+How to help a drowning person in CPR?,,CPR
+How do you treat a Fracture?,,Fracture
+what to do if i get a Fracture?,,Fracture
+Which medicine to take if I have a Fracture?,,Fracture
+How to cure a Fracture?,,Fracture
+sore watery throat itchy sneezing nasal congestion nose runny eyes,['You Are Showing Symptoms Of The Allergies'],disease1
+eyes congestion itchy watery sneezing runny throat nose nasal sore,['You Are Showing Symptoms Of The Allergies'],disease1
+itchy congestion sore eyes runny watery sneezing throat nose nasal,['You Are Showing Symptoms Of The Allergies'],disease1
+watery sneezing throat itchy clearing from eyes nose nasal drip throat cough congestion postnasal scratchy,['You Are Showing Symptoms Of The Allergies'],disease1
+watery nasal itchy throat from throat scratchy drip nose cough sneezing clearing congestion eyes postnasal,['You Are Showing Symptoms Of The Allergies'],disease1
+scratchy cough eyes drip sneezing itchy congestion throat nose throat clearing postnasal watery from nasal,['You Are Showing Symptoms Of The Allergies'],disease1
+nasal eyes itchy throat postnasal nose watery throat scratchy cough from clearing drip sneezing congestion,['You Are Showing Symptoms Of The Allergies'],disease1
+drip sneezing throat nose from congestion clearing itchy nasal throat eyes cough postnasal scratchy watery,['You Are Showing Symptoms Of The Allergies'],disease1
+throat eyes drip nose postnasal cough congestion itchy throat from clearing scratchy sneezing watery nasal,['You Are Showing Symptoms Of The Allergies'],disease1
+of palpitations Feel fainting Have decreased pale Appear shortness rate rapid energy heart breath easily Experience Develop Weakness Fatigue tired,['You Are Showing Symptoms Of The Anemia'],disease2
+fainting decreased shortness Feel energy Experience tired Have Weakness palpitations Fatigue breath of Develop Appear easily pale rapid rate heart,['You Are Showing Symptoms Of The Anemia'],disease2
+palpitations rapid fainting Weakness Appear energy rate Experience Have tired decreased shortness Develop breath pale Fatigue heart of Feel easily,['You Are Showing Symptoms Of The Anemia'],disease2
+decreased shortness pale tired Weakness rapid heart of Have breath rate Appear palpitations energy fainting easily Experience Feel Fatigue Develop,['You Are Showing Symptoms Of The Anemia'],disease2
+shortness heart Feel Weakness pale tired Develop Fatigue Appear of breath Experience decreased energy Have palpitations rate rapid fainting easily,['You Are Showing Symptoms Of The Anemia'],disease2
+fainting heart Appear Fatigue Feel easily of pale rate Weakness Develop breath tired energy Have palpitations rapid Experience decreased shortness,['You Are Showing Symptoms Of The Anemia'],disease2
+easily palpitations rapid Have fainting Fatigue Develop energy Weakness tired Experience rate Feel pale decreased Appear shortness breath heart of,['You Are Showing Symptoms Of The Anemia'],disease2
+Feel Fatigue breath Experience fainting tired easily palpitations Weakness decreased Develop rapid shortness energy pale of Appear rate Have heart,['You Are Showing Symptoms Of The Anemia'],disease2
+congestion Headaches Cough body nosesneezing throat symptoms Nasal Sore runny fever aches,['You Are Showing Symptoms Of The Cold/Flu'],disease3
+aches Sore body fever runny congestion throat nosesneezing symptoms Cough Headaches Nasal,['You Are Showing Symptoms Of The Cold/Flu'],disease3
+Cough body throat aches Sore nosesneezing Headaches fever congestion runny symptoms Nasal,['You Are Showing Symptoms Of The Cold/Flu'],disease3
+runny aches symptoms body nosesneezing congestion Headaches Cough Sore Nasal throat fever,['You Are Showing Symptoms Of The Cold/Flu'],disease3
+cough breath pain chest of shortness,['You Are Showing Symptoms Of The Asthma'],disease4
+chest pain breath of shortness cough,['You Are Showing Symptoms Of The Asthma'],disease4
+cough breath shortness pain of chest,['You Are Showing Symptoms Of The Asthma'],disease4
+agitation quarrelsomeness loss irritability of orientation,['You are most likely suffering from alzheimers'],disease5
+of orientation loss agitation irritability quarrelsomeness,['You are most likely suffering from alzheimers'],disease5
+orientation loss quarrelsomeness irritability of agitation,['You are most likely suffering from alzheimers'],disease5
+of tenderness periods Food cravings breast swelling absence menstrual,['You are most likely suffering from pregnancy'],disease6
+of swelling menstrual Food periods tenderness absence cravings breast,['You are most likely suffering from pregnancy'],disease6
+periods menstrual cravings absence tenderness of Food breast swelling,['You are most likely suffering from pregnancy'],disease6
+Food breast absence tenderness menstrual swelling of cravings periods,['You are most likely suffering from pregnancy'],disease6
+sweating loss weight nervousness heart intolerance agitation to a heat tremor rate rapid excessive loss hair fatigue,['You are most likely suffering from hyperthyroid'],disease7
+excessive intolerance fatigue a loss rapid tremor heat nervousness loss weight sweating rate to agitation heart hair,['You are most likely suffering from hyperthyroid'],disease7
+loss heat weight agitation a rate fatigue tremor to intolerance rapid sweating excessive nervousness hair loss heart,['You are most likely suffering from hyperthyroid'],disease7
+heart excessive sweating fatigue weight intolerance a tremor heat agitation loss nervousness hair loss rate to rapid,['You are most likely suffering from hyperthyroid'],disease7
+loss heat hair sweating heart excessive a tremor rate loss agitation rapid nervousness intolerance to weight fatigue,['You are most likely suffering from hyperthyroid'],disease7
+fatigue cramps dry intolerance muscle gain weight depression skin sleepiness cold mild,['You are most likely suffering from hypothyroid'],disease8
+gain weight mild cold muscle intolerance depression cramps dry fatigue skin sleepiness,['You are most likely suffering from hypothyroid'],disease8
+dry gain intolerance cold skin depression weight sleepiness fatigue cramps muscle mild,['You are most likely suffering from hypothyroid'],disease8
+thirst dehydration hunger increased urination increased,['You are most likely suffering from diabetes'],disease9
+hunger urination increased thirst dehydration increased,['You are most likely suffering from diabetes'],disease9
+urination dehydration hunger increased thirst increased,['You are most likely suffering from diabetes'],disease9
+chills ulcers sweats swollen muscle aches lymph mouth throat sore nodes night fever joint,['You are most likely suffering from HIV AIDS'],disease10
+mouth joint night throat sweats sore chills fever muscle lymph nodes ulcers swollen aches,['You are most likely suffering from HIV AIDS'],disease10
+throat lymph joint swollen sore night chills sweats aches nodes ulcers muscle fever mouth,['You are most likely suffering from HIV AIDS'],disease10
+swollen fever sweats throat lymph chills aches ulcers muscle joint sore mouth night nodes,['You are most likely suffering from HIV AIDS'],disease10
+in shortness pain of blurred vision headache chest nosebleeds the breath blood fatigue urine dizziness,['You are most likely suffering from high blood pressure'],disease11
+fatigue dizziness pain headache nosebleeds blood chest breath of the urine vision blurred shortness in,['You are most likely suffering from high blood pressure'],disease11
+fatigue dizziness chest blurred the pain nosebleeds shortness of urine in vision breath headache blood,['You are most likely suffering from high blood pressure'],disease11
+nosebleeds blood pain shortness chest in breath vision of the dizziness headache fatigue blurred urine,['You are most likely suffering from high blood pressure'],disease11
+pain shortness nosebleeds breath in vision fatigue of dizziness blurred blood headache the urine chest,['You are most likely suffering from high blood pressure'],disease11
+of stiffness muscle fatigue of energy aches appetite ache fever lack loss,['You are most likely suffering from Rheumatoid Arthritis'],disease12
+aches of lack of loss ache energy fatigue fever muscle stiffness appetite,['You are most likely suffering from Rheumatoid Arthritis'],disease12
+of lack of loss fatigue stiffness appetite fever muscle energy aches ache,['You are most likely suffering from Rheumatoid Arthritis'],disease12
+muscle appetite fever fatigue aches lack stiffness energy ache of of loss,['You are most likely suffering from Rheumatoid Arthritis'],disease12
+fatigue the abdomen jaundice upper inflamed of in right pain appetite nausea loss liver,['You are most likely suffering from hepatitis B'],disease13
+the inflamed loss upper of abdomen liver in pain jaundice appetite nausea right fatigue,['You are most likely suffering from hepatitis B'],disease13
+loss appetite nausea inflamed right of in fatigue the liver abdomen upper pain jaundice,['You are most likely suffering from hepatitis B'],disease13
+right upper loss inflamed in abdomen nausea liver the fatigue of appetite pain jaundice,['You are most likely suffering from hepatitis B'],disease13
+loss liver appetite the of upper pain jaundice inflamed right nausea abdomen fatigue in,['You are most likely suffering from hepatitis B'],disease13
+fever fever pain exhaustion headache muscle rash joint severe headache,['You are most likely suffering from Dengue'],disease14
+headache joint muscle pain headache rash exhaustion fever severe fever,['You are most likely suffering from Dengue'],disease14
+fever headache joint fever rash headache pain severe exhaustion muscle,['You are most likely suffering from Dengue'],disease14
+muscle pain headache severe fever headache exhaustion fever rash joint,['You are most likely suffering from Dengue'],disease14
+general weakness vomiting chills aches nausea headaches fever body,['You are most likely suffering from Malaria'],disease15
+nausea vomiting headaches aches weakness general fever chills body,['You are most likely suffering from Malaria'],disease15
+weakness body nausea aches chills headaches general fever vomiting,['You are most likely suffering from Malaria'],disease15
+body headaches chills general aches nausea vomiting fever weakness,['You are most likely suffering from Malaria'],disease15
+general red on fever the body weakness spots fever,['You are most likely suffering from Chicken Pox'],disease16
+fever body on general spots red weakness the fever,['You are most likely suffering from Chicken Pox'],disease16
+fever the red on general weakness fever body spots,['You are most likely suffering from Chicken Pox'],disease16
+on fever general the fever spots weakness body red,['You are most likely suffering from Chicken Pox'],disease16
+skin discoloration the mucous Yellow muscle Seizures membranes crying High of pitched Changes in sleepiness tone,['You are most likely suffering from jaundice'],disease17
+Seizures the High pitched membranes discoloration Changes sleepiness Yellow tone of crying skin in mucous muscle,['You are most likely suffering from jaundice'],disease17
+High skin membranes Seizures Yellow crying Changes in of muscle tone pitched mucous sleepiness the discoloration,['You are most likely suffering from jaundice'],disease17
+muscle of tone Seizures Changes in skin sleepiness membranes crying the Yellow High mucous discoloration pitched,['You are most likely suffering from jaundice'],disease17
+frequent pain watery bowel movements abdominal no inflammation signs cramping of are,['You are most likely suffering from Diarrhea'],disease18
+pain signs watery of abdominal no movements frequent inflammation are cramping bowel,['You are most likely suffering from Diarrhea'],disease18
+bowel cramping frequent inflammation movements watery of pain no abdominal are signs,['You are most likely suffering from Diarrhea'],disease18
+are watery cramping of frequent signs no pain movements bowel inflammation abdominal,['You are most likely suffering from Diarrhea'],disease18
+decrease fully glasses in with correctable clarity of vision not,['You are most likely suffering from cataract'],disease19
+not correctable of with in vision decrease clarity fully glasses,['You are most likely suffering from cataract'],disease19
+glasses decrease of not with vision in clarity fully correctable,['You are most likely suffering from cataract'],disease19
+vision correctable in clarity of fully decrease glasses not with,['You are most likely suffering from cataract'],disease19
+fully of correctable not in decrease clarity glasses with vision,['You are most likely suffering from cataract'],disease19
+fatigue fever of cough chills breath shortness,['You are most likely suffering from pneumonia'],disease20
+of cough fever fatigue shortness chills breath,['You are most likely suffering from pneumonia'],disease20
+fever chills fatigue of cough shortness breath,['You are most likely suffering from pneumonia'],disease20
+of chills fever fatigue cough shortness breath,['You are most likely suffering from pneumonia'],disease20
+lower to the in of inability urinate bloating abdomen lower the abdomen discomfort painful,['You are most likely suffering from Urinary Retention'],disease21
+abdomen the abdomen inability the to bloating painful lower discomfort lower urinate of in,['You are most likely suffering from Urinary Retention'],disease21
+urinate the painful abdomen lower discomfort inability to in abdomen of lower bloating the,['You are most likely suffering from Urinary Retention'],disease21
+painful urinate to inability lower of the abdomen the bloating lower discomfort in abdomen,['You are most likely suffering from Urinary Retention'],disease21
+abdomen bloating urinate lower in lower inability the of the discomfort abdomen painful to,['You are most likely suffering from Urinary Retention'],disease21
+Mood of fatigue concentration Daytime changes Anxiety Po of sleep sleepiness Lack lack energy Headaches attention,['You are most likely suffering from Insomnia'],disease22
+Mood fatigue Lack Po of of changes Anxiety lack energy Headaches Daytime sleep attention concentration sleepiness,['You are most likely suffering from Insomnia'],disease22
+Daytime sleepiness Lack fatigue changes sleep Anxiety lack energy concentration Headaches attention of Po of Mood,['You are most likely suffering from Insomnia'],disease22
+of energy Mood Daytime Lack sleepiness Po Headaches sleep of fatigue lack Anxiety changes concentration attention,['You are most likely suffering from Insomnia'],disease22
+changes Lack of of Daytime Anxiety attention concentration Mood fatigue Headaches energy Po sleepiness sleep lack,['You are most likely suffering from Insomnia'],disease22
+cough fever tenderness sore sinuses pressure in pain the ears in cloudy the headache throat nasal teeth sinus discolored facial,['You are most likely suffering from Sinus Infection'],disease23
+ears cloudy discolored headache teeth nasal pain cough facial in pressure sinuses the fever sore in sinus tenderness throat the,['You are most likely suffering from Sinus Infection'],disease23
+nasal in tenderness sinus cough cloudy discolored sinuses sore ears pressure the pain throat in facial the teeth fever headache,['You are most likely suffering from Sinus Infection'],disease23
+sinus the headache the facial sinuses fever pain in pressure nasal tenderness ears teeth sore cough in throat cloudy discolored,['You are most likely suffering from Sinus Infection'],disease23
+sore the sinus cough tenderness throat the pain facial discolored fever nasal in in cloudy ears teeth sinuses pressure headache,['You are most likely suffering from Sinus Infection'],disease23
+pressure in teeth facial sinuses the cloudy the discolored sinus cough sore tenderness throat fever nasal headache pain ears in,['You are most likely suffering from Sinus Infection'],disease23
+aches of loss fever muscle fatigue appetite,['You are most likely suffering from hepatitis c'],disease24
+fever loss appetite muscle of aches fatigue,['You are most likely suffering from hepatitis c'],disease24
+of loss aches fatigue fever appetite muscle,['You are most likely suffering from hepatitis c'],disease24
+aches fever of loss appetite muscle fatigue,['You are most likely suffering from hepatitis c'],disease24
+painful loss swollen glands appetite salivary fever fatigue headache,['You are most likely suffering from mumps'],disease25
+appetite painful headache salivary fever loss glands fatigue swollen,['You are most likely suffering from mumps'],disease25
+loss headache glands fatigue salivary fever swollen painful appetite,['You are most likely suffering from mumps'],disease25
+loss glands painful salivary swollen headache fatigue appetite fever,['You are most likely suffering from mumps'],disease25
+cough conjunctivitis runny fever high nose dry,['You are most likely suffering from measles'],disease26
+runny conjunctivitis high dry cough nose fever,['You are most likely suffering from measles'],disease26
+cough fever high nose dry runny conjunctivitis,['You are most likely suffering from measles'],disease26
+muscle dry difficulty swallowing vision weakness drooping double mouth blurred vision eyelids,['You are most likely suffering from botulism'],disease27
+double drooping weakness muscle dry swallowing mouth blurred eyelids vision difficulty vision,['You are most likely suffering from botulism'],disease27
+vision mouth weakness drooping eyelids vision difficulty swallowing blurred double dry muscle,['You are most likely suffering from botulism'],disease27
+vision drooping difficulty muscle double swallowing mouth blurred dry eyelids vision weakness,['You are most likely suffering from botulism'],disease27
+rapid deterioration mental,['You are most likely suffering from mad cow disease'],disease28
+mental rapid deterioration,['You are most likely suffering from mad cow disease'],disease28
+neck irritability sudden stiff loss headache memory back loss weakness muscle vomiting seizures of po confusion consciousness fever responsiveness drowsiness,['You are most likely suffering from meningetis'],disease29
+confusion of memory responsiveness fever loss consciousness sudden loss muscle back headache po irritability drowsiness seizures stiff weakness neck vomiting,['You are most likely suffering from meningetis'],disease29
+loss loss weakness seizures confusion po sudden stiff irritability vomiting memory fever of responsiveness neck consciousness headache muscle back drowsiness,['You are most likely suffering from meningetis'],disease29
+vomiting muscle back memory fever loss confusion of drowsiness po loss sudden seizures headache responsiveness weakness irritability consciousness neck stiff,['You are most likely suffering from meningetis'],disease29
+of loss irritability muscle vomiting loss memory seizures stiff responsiveness consciousness headache fever confusion back weakness neck po drowsiness sudden,['You are most likely suffering from meningetis'],disease29
+fever drowsiness sudden vomiting headache confusion weakness consciousness seizures back irritability of po loss muscle stiff loss memory responsiveness neck,['You are most likely suffering from meningetis'],disease29
+upper nausea vomiting pain abdominal abdominal distention,['You are most likely suffering from indigestion'],disease30
+vomiting pain upper abdominal distention nausea abdominal,['You are most likely suffering from indigestion'],disease30
+pain nausea upper vomiting distention abdominal abdominal,['You are most likely suffering from indigestion'],disease30
+distention upper abdominal abdominal nausea vomiting pain,['You are most likely suffering from indigestion'],disease30
+Less bleeding diarrhea fissures prolapse Lower rectal movements Anal abdominal bowel discomfort,['You are most likely suffering from constipation'],disease31
+diarrhea Anal bowel rectal Less prolapse movements fissures Lower discomfort abdominal bleeding,['You are most likely suffering from constipation'],disease31
+prolapse discomfort Anal abdominal Less rectal fissures Lower bowel bleeding diarrhea movements,['You are most likely suffering from constipation'],disease31
+prolapse fissures abdominal movements Less bowel bleeding discomfort Lower diarrhea Anal rectal,['You are most likely suffering from constipation'],disease31
+Lower rectal fissures Anal bleeding abdominal bowel diarrhea movements prolapse Less discomfort,['You are most likely suffering from constipation'],disease31
+fissures bowel diarrhea rectal Anal abdominal movements bleeding prolapse discomfort Lower Less,['You are most likely suffering from constipation'],disease31
+appetite tenderness nausea of pain abdominal fever vomiting loss abdominal,['You are most likely suffering from appendicitis'],disease32
+fever of pain vomiting tenderness abdominal nausea loss appetite abdominal,['You are most likely suffering from appendicitis'],disease32
+tenderness pain of nausea vomiting fever abdominal abdominal appetite loss,['You are most likely suffering from appendicitis'],disease32
+nausea abdominal loss fever pain appetite tenderness of abdominal vomiting,['You are most likely suffering from appendicitis'],disease32
+may fatigue trouble problems sleep irritabilityheadaches attention concentrating restlessness problems as that appear also memory,['You are most likely suffering from Anxiety Disorder'],disease33
+problems that concentrating fatigue sleep may memory appear restlessness also as trouble problems attention irritabilityheadaches,['You are most likely suffering from Anxiety Disorder'],disease33
+also fatigue concentrating as trouble restlessness may attention sleep memory problems that appear problems irritabilityheadaches,['You are most likely suffering from Anxiety Disorder'],disease33
+also as sleep problems memory that fatigue appear trouble concentrating may problems irritabilityheadaches attention restlessness,['You are most likely suffering from Anxiety Disorder'],disease33
+problems memory irritabilityheadaches sleep also may problems concentrating that restlessness appear as fatigue trouble attention,['You are most likely suffering from Anxiety Disorder'],disease33
+Weight loss Diarrhea pain diarrhea Vomiting Bloody Fever Abdominal,"[""You are most likely suffering from crohn's disease""]",disease34
+Bloody Vomiting loss Abdominal Fever Weight diarrhea pain Diarrhea,"[""You are most likely suffering from crohn's disease""]",disease34
+pain Bloody loss Diarrhea diarrhea Abdominal Vomiting Weight Fever,"[""You are most likely suffering from crohn's disease""]",disease34
+Diarrhea loss Abdominal diarrhea Bloody Fever Weight pain Vomiting,"[""You are most likely suffering from crohn's disease""]",disease34
+Sleep droopy double paralysis daytime hallucinations vision eyelids Excessive sleepiness,['You are most likely suffering from narcolepsy'],disease35
+double droopy paralysis Excessive Sleep sleepiness daytime vision hallucinations eyelids,['You are most likely suffering from narcolepsy'],disease35
+eyelids Sleep droopy double sleepiness Excessive hallucinations paralysis vision daytime,['You are most likely suffering from narcolepsy'],disease35
+eyelids sleepiness hallucinations paralysis Sleep vision Excessive double daytime droopy,['You are most likely suffering from narcolepsy'],disease35
+paralysis hallucinations Excessive double vision droopy daytime eyelids sleepiness Sleep,['You are most likely suffering from narcolepsy'],disease35
+urine blood kidney in in tract urinary infections pain tractU painstones the rinary the,['You are most likely suffering from cystinuria'],disease36
+blood urine rinary urinary painstones the the kidney infections tract tractU pain in in,['You are most likely suffering from cystinuria'],disease36
+the rinary kidney infections blood in urinary urine tract painstones the in pain tractU,['You are most likely suffering from cystinuria'],disease36
+blood tract in urine kidney infections in pain the the urinary tractU painstones rinary,['You are most likely suffering from cystinuria'],disease36
+in infections urine in tract pain tractU painstones blood kidney the the rinary urinary,['You are most likely suffering from cystinuria'],disease36
+infections in tract urinary blood kidney in the tractU rinary painstones urine the pain,['You are most likely suffering from cystinuria'],disease36
+urinating back pain pain pain Blood Groin low pain rectal Fever abdominal,['You are most likely suffering from prostatitis'],disease37
+pain Fever low pain rectal abdominal Blood Groin pain back urinating pain,['You are most likely suffering from prostatitis'],disease37
+Fever rectal pain pain low pain back urinating Groin pain Blood abdominal,['You are most likely suffering from prostatitis'],disease37
+Groin back Blood pain pain Fever pain pain urinating rectal low abdominal,['You are most likely suffering from prostatitis'],disease37
+to fullness pressure heaviness that the goes of shortness breath chest pain arm tightness sweating ache,['You are most likely suffering from Angina'],disease38
+ache goes heaviness chest shortness pressure pain tightness sweating of the that breath fullness arm to,['You are most likely suffering from Angina'],disease38
+pain the tightness of breath chest that goes sweating pressure ache shortness arm fullness to heaviness,['You are most likely suffering from Angina'],disease38
+tightness goes heaviness that ache fullness of arm pain chest sweating to breath the pressure shortness,['You are most likely suffering from Angina'],disease38
+tightness shortness breath that goes to of pressure sweating the pain arm fullness chest ache heaviness,['You are most likely suffering from Angina'],disease38
+coma aches skin headache paralysis fever sleepiness stiff disorientation convulsions neck body tremors rash,['You are most likely suffering from west nile virus'],disease39
+coma convulsions body rash skin paralysis stiff disorientation sleepiness fever tremors neck aches headache,['You are most likely suffering from west nile virus'],disease39
+headache disorientation tremors paralysis coma skin sleepiness stiff neck rash fever body convulsions aches,['You are most likely suffering from west nile virus'],disease39
+aches sleepiness stiff tremors skin fever disorientation body paralysis neck convulsions rash headache coma,['You are most likely suffering from west nile virus'],disease39
+stiff paralysis sleepiness fever rash disorientation skin coma aches convulsions headache tremors neck body,['You are most likely suffering from west nile virus'],disease39
+pressure blood fevers chills pus swollen red low high,['You are most likely suffering from Staph Infection'],disease40
+low red swollen fevers pus high pressure chills blood,['You are most likely suffering from Staph Infection'],disease40
+low swollen chills red pus high pressure blood fevers,['You are most likely suffering from Staph Infection'],disease40
+red fevers blood pus low chills high swollen pressure,['You are most likely suffering from Staph Infection'],disease40
+vision blurred,['You are most likely suffering from Macular Degeneration(Age-Related Type)'],disease41
+Flashing lights floaters,['You are most likely suffering from Retinal detachment'],disease42
+lights floaters Flashing,['You are most likely suffering from Retinal detachment'],disease42
+vision of haziness blurriness,['You are most likely suffering from Glaucoma'],disease43
+blurriness haziness vision of,['You are most likely suffering from Glaucoma'],disease43
+cancer the periods pelvic heavy womb uterus ovaries the of pain cervix of prolapse,['You are most likely suffering from hysterectomy'],disease44
+the ovaries uterus cancer the pelvic heavy of cervix prolapse periods pain of womb,['You are most likely suffering from hysterectomy'],disease44
+of ovaries of heavy uterus prolapse cervix cancer pelvic the pain the periods womb,['You are most likely suffering from hysterectomy'],disease44
+that is typically odorless vaginal a discharge thick,['You are most likely suffering from yeast infection'],disease45
+thick vaginal a that discharge is typically odorless,['You are most likely suffering from yeast infection'],disease45
+upset easily irritable withdrawal Sleep worsen depression underweight social disrupted,['You are most likely suffering from anorexia'],disease46
+social depression irritable easily upset worsen disrupted Sleep withdrawal underweight,['You are most likely suffering from anorexia'],disease46
+worsen withdrawal upset depression underweight Sleep irritable social easily disrupted,['You are most likely suffering from anorexia'],disease46
+discomfort of chest wheezing breath shortness cough,['You are most likely suffering from chronic obstructive pulmonary disease'],disease47
+wheezing cough chest breath discomfort of shortness,['You are most likely suffering from chronic obstructive pulmonary disease'],disease47
+wheezing shortness cough chest breath discomfort of,['You are most likely suffering from chronic obstructive pulmonary disease'],disease47
+shortness wheezing breath of,['You are most likely suffering from emphysema'],disease48
+breath shortness of wheezing,['You are most likely suffering from emphysema'],disease48
+of shortness breath wheezing,['You are most likely suffering from emphysema'],disease48
+area from infection areas grows of which hair skin tiny of,['You are most likely suffering from boils'],disease49
+skin grows hair infection of areas which tiny area of from,['You are most likely suffering from boils'],disease49
+infection grows tiny area hair skin areas which of from of,['You are most likely suffering from boils'],disease49
+hair of of areas grows area skin tiny from which infection,['You are most likely suffering from boils'],disease49
+shaped in col look red from pink shiny ranging raised to dome,['You are most likely suffering from keloid scar'],disease50
+in to ranging col raised look pink red shaped dome from shiny,['You are most likely suffering from keloid scar'],disease50
+red look in ranging shaped col dome to shiny pink from raised,['You are most likely suffering from keloid scar'],disease50
+ranging dome shaped from red in shiny pink look col raised to,['You are most likely suffering from keloid scar'],disease50
+pink look to ranging raised from col red dome shaped shiny in,['You are most likely suffering from keloid scar'],disease50
+small flushing cysts facial the of blushing tissue redness acial skin thickening,['You are most likely suffering from rosacea'],disease51
+acial small facial redness flushing thickening blushing of tissue the cysts skin,['You are most likely suffering from rosacea'],disease51
+small thickening flushing skin of redness facial blushing tissue the acial cysts,['You are most likely suffering from rosacea'],disease51
+thickening redness acial small tissue skin cysts the of flushing facial blushing,['You are most likely suffering from rosacea'],disease51
+skin blushing the small acial thickening redness cysts tissue flushing facial of,['You are most likely suffering from rosacea'],disease51
+blistering fever aches fluid body pain rash nausea stinging stabbing burning chills itching tingling rash one filled sided headache red sensation,['You are most likely suffering from shingles(herpes zoster)'],disease52
+rash chills headache stinging fever blistering filled pain red aches body itching stabbing sided sensation burning one tingling nausea rash fluid,['You are most likely suffering from shingles(herpes zoster)'],disease52
+headache burning stabbing body aches pain fever rash sided chills tingling filled stinging itching red nausea blistering one fluid rash sensation,['You are most likely suffering from shingles(herpes zoster)'],disease52
+tingling one chills blistering nausea sided headache filled sensation fluid rash burning body stabbing itching fever rash stinging pain red aches,['You are most likely suffering from shingles(herpes zoster)'],disease52
+fluid chills stinging body itching tingling filled burning sided rash aches nausea rash one blistering pain fever headache red sensation stabbing,['You are most likely suffering from shingles(herpes zoster)'],disease52
+body stinging rash tingling pain stabbing fluid one rash itching chills nausea blistering red aches sided fever burning filled headache sensation,['You are most likely suffering from shingles(herpes zoster)'],disease52
+scaly head forehead plaques Reddish,['You are most likely suffering from dandruff'],disease53
+plaques forehead scaly head Reddish,['You are most likely suffering from dandruff'],disease53
+scaly plaques forehead head Reddish,['You are most likely suffering from dandruff'],disease53
+uninflamed pus filled pimples blackheads t,['You are most likely suffering from acne'],disease54
+t pimples filled blackheads uninflamed pus,['You are most likely suffering from acne'],disease54
+blackheads pimples pus t uninflamed filled,['You are most likely suffering from acne'],disease54
+growth skin painless fleshy the on,['You are most likely suffering from common wart'],disease55
+skin fleshy growth painless on the,['You are most likely suffering from common wart'],disease55
+fleshy skin painless on the growth,['You are most likely suffering from common wart'],disease55
+tightness swelling pain tenderness redness hardening skin itching,['You are most likely suffering from Scleroderma'],disease56
+redness skin tightness swelling hardening tenderness pain itching,['You are most likely suffering from Scleroderma'],disease56
+redness tightness tenderness itching pain swelling hardening skin,['You are most likely suffering from Scleroderma'],disease56
+big sever violet a mild colour angular bumps borders itching,['You are most likely suffering from Lichen planus'],disease57
+bumps big itching sever colour borders angular mild violet a,['You are most likely suffering from Lichen planus'],disease57
+big angular bumps a sever itching borders mild colour violet,['You are most likely suffering from Lichen planus'],disease57
+itching colour big bumps borders mild a violet angular sever,['You are most likely suffering from Lichen planus'],disease57
+forgetfulness simple old age,['You are most likely suffering from Dementia'],disease58
+old age simple forgetfulness,['You are most likely suffering from Dementia'],disease58
+simple forgetfulness age old,['You are most likely suffering from Dementia'],disease58
+flare itch swell welts,['You are most likely suffering from hives'],disease59
+pain abdominal teeth vomiting skin discolored glands throat deteriorating constipation salivary dehydration swollen dry sore,['You are most likely suffering from bulimia nervosa'],disease60
+dry glands teeth skin abdominal constipation sore dehydration deteriorating vomiting salivary pain throat discolored swollen,['You are most likely suffering from bulimia nervosa'],disease60
+teeth skin dehydration deteriorating swollen constipation abdominal vomiting glands salivary pain sore throat dry discolored,['You are most likely suffering from bulimia nervosa'],disease60
+dry throat dehydration salivary swollen deteriorating abdominal pain sore skin teeth vomiting glands constipation discolored,['You are most likely suffering from bulimia nervosa'],disease60
+skin vomiting throat salivary glands pain swollen constipation discolored dehydration dry teeth abdominal deteriorating sore,['You are most likely suffering from bulimia nervosa'],disease60
+sex Penile of penis completion occurs f hard erection enough,['You are most likely suffering from erectile dysfunction'],disease61
+penis sex erection enough hard Penile f completion occurs of,['You are most likely suffering from erectile dysfunction'],disease61
+penis Penile of enough erection f hard sex completion occurs,['You are most likely suffering from erectile dysfunction'],disease61
+urgently flow tract of of need blockage urinate the urine urinary to infections slow urethra,['You are most likely suffering from Enlarged Prostate Gland'],disease62
+of the urinary flow to slow urgently need urinate of blockage urethra tract infections urine,['You are most likely suffering from Enlarged Prostate Gland'],disease62
+urine of of urethra need infections to slow urgently urinate urinary flow the blockage tract,['You are most likely suffering from Enlarged Prostate Gland'],disease62
+of slow flow urgently need tract to infections urinate urinary urine blockage of the urethra,['You are most likely suffering from Enlarged Prostate Gland'],disease62
+tract blockage of urinary urine slow need flow urinate infections the to urgently urethra of,['You are most likely suffering from Enlarged Prostate Gland'],disease62
+Hopelessness Lack Fatigue appetite other excessive decisions of making of physical Loss concentration hunger Insomnia symptomsinadequacy,['You are most likely suffering from Dysthymia (Persistent Depressive Disorder)'],disease63
+Insomnia Lack hunger making Hopelessness Loss appetite other of decisions Fatigue of physical excessive concentration symptomsinadequacy,['You are most likely suffering from Dysthymia (Persistent Depressive Disorder)'],disease63
+symptomsinadequacy Insomnia Lack decisions appetite making of physical other Loss hunger of concentration excessive Fatigue Hopelessness,['You are most likely suffering from Dysthymia (Persistent Depressive Disorder)'],disease63
+decisions symptomsinadequacy Lack other excessive appetite concentration of Hopelessness physical of Loss hunger Fatigue Insomnia making,['You are most likely suffering from Dysthymia (Persistent Depressive Disorder)'],disease63
+stomach lightheadedness racing nausea pounding hyperventilation difficulty chest breathing upset dizziness heartbeat pains,['You are most likely suffering from panic attack'],disease64
+pains heartbeat lightheadedness stomach difficulty chest nausea pounding upset racing breathing dizziness hyperventilation,['You are most likely suffering from panic attack'],disease64
+chest difficulty pounding racing pains hyperventilation heartbeat dizziness upset nausea breathing lightheadedness stomach,['You are most likely suffering from panic attack'],disease64
+racing pounding difficulty pains hyperventilation heartbeat chest dizziness lightheadedness stomach nausea breathing upset,['You are most likely suffering from panic attack'],disease64
+sleep racing speech f elevated thoughts irritable pressured expansive mood need decreased,['You are most likely suffering from bipolar disorder'],disease65
+f mood need speech thoughts elevated pressured sleep expansive decreased racing irritable,['You are most likely suffering from bipolar disorder'],disease65
+thoughts pressured elevated racing need mood irritable f expansive decreased speech sleep,['You are most likely suffering from bipolar disorder'],disease65
+need thoughts f mood racing expansive decreased speech sleep pressured elevated irritable,['You are most likely suffering from bipolar disorder'],disease65
+abdominal pain swelling abdominal upper lower chest pain belching distention discomfort,['You are most likely suffering from Indigestion(Dyspepsia)'],disease66
+abdominal pain pain belching abdominal lower discomfort upper swelling distention chest,['You are most likely suffering from Indigestion(Dyspepsia)'],disease66
+abdominal pain chest pain distention swelling belching lower upper abdominal discomfort,['You are most likely suffering from Indigestion(Dyspepsia)'],disease66
+pain distention lower belching upper swelling discomfort abdominal abdominal pain chest,['You are most likely suffering from Indigestion(Dyspepsia)'],disease66
+vomiting pale with skin along production headache Nausea dizziness saliva fatigue increased,['You are most likely suffering from motion sickness'],disease67
+pale Nausea along fatigue dizziness increased with skin production vomiting headache saliva,['You are most likely suffering from motion sickness'],disease67
+with vomiting fatigue skin increased along Nausea dizziness pale production headache saliva,['You are most likely suffering from motion sickness'],disease67
+confusion breath tired shortness becoming headache easily drowsiness of sleepiness fatigue,['You are most likely suffering from respiratory acidosis'],disease68
+fatigue tired breath becoming sleepiness headache easily drowsiness confusion shortness of,['You are most likely suffering from respiratory acidosis'],disease68
+becoming confusion tired sleepiness fatigue easily breath headache shortness of drowsiness,['You are most likely suffering from respiratory acidosis'],disease68
+confusion tired drowsiness breath fatigue easily shortness becoming sleepiness of headache,['You are most likely suffering from respiratory acidosis'],disease68
+lack jaundice shallow confusion breathing fatigue rapid sleepiness of headache appetite,['You are most likely suffering from metabolic acidosis'],disease69
+fatigue lack sleepiness headache rapid shallow confusion appetite of jaundice breathing,['You are most likely suffering from metabolic acidosis'],disease69
+breathing headache confusion appetite of shallow rapid jaundice sleepiness fatigue lack,['You are most likely suffering from metabolic acidosis'],disease69
+headache sleepiness appetite lack breathing shallow of jaundice confusion fatigue rapid,['You are most likely suffering from metabolic acidosis'],disease69
+discolored blood low skin headaches muscle general rapid weakness fever breathing fatigue pressure labored,['You are most likely suffering from acute respiratory distress syndrome'],disease70
+fever fatigue labored pressure low rapid discolored weakness blood headaches skin muscle general breathing,['You are most likely suffering from acute respiratory distress syndrome'],disease70
+pressure weakness low fever blood rapid skin fatigue breathing labored discolored muscle headaches general,['You are most likely suffering from acute respiratory distress syndrome'],disease70
+discolored labored muscle general headaches breathing fever blood fatigue low skin pressure rapid weakness,['You are most likely suffering from acute respiratory distress syndrome'],disease70
+breathing discolored weakness rapid low skin headaches fatigue pressure labored general muscle blood fever,['You are most likely suffering from acute respiratory distress syndrome'],disease70
+discolored fatigue weakness pressure blood labored rapid fever muscle headaches low general skin breathing,['You are most likely suffering from acute respiratory distress syndrome'],disease70
+decreased loss in darkening muscles blood sugar appetite in tiredness skin low irritability depression vomiting levels weakness weight col the nausea fatigue,"[""You are most likely suffering from Addison's disease""]",disease71
+weakness levels sugar tiredness irritability weight muscles fatigue low in darkening appetite decreased blood nausea vomiting the in loss col depression skin,"[""You are most likely suffering from Addison's disease""]",disease71
+nausea fatigue in irritability muscles in weight col skin sugar darkening weakness levels low tiredness appetite blood loss depression decreased vomiting the,"[""You are most likely suffering from Addison's disease""]",disease71
+the darkening blood sugar vomiting fatigue irritability weakness skin decreased depression col appetite weight levels loss low nausea in in tiredness muscles,"[""You are most likely suffering from Addison's disease""]",disease71
+depression in decreased irritability loss levels the sugar vomiting col nausea darkening in muscles weight weakness appetite skin fatigue blood low tiredness,"[""You are most likely suffering from Addison's disease""]",disease71
+the sudden fear in high back belly restlessness fever confusion lower legs pain,['You are most likely suffering from Addisonian crisis'],disease72
+restlessness sudden high legs fear in lower confusion fever pain back the belly,['You are most likely suffering from Addisonian crisis'],disease72
+restlessness in legs fear back confusion lower fever belly sudden high pain the,['You are most likely suffering from Addisonian crisis'],disease72
+physical during up breath of rapid breath swollen short heart legs lower waking of activity rate shortness,['You are most likely suffering from beriberi'],disease73
+waking short legs swollen heart of of breath rapid rate during physical lower breath shortness activity up,['You are most likely suffering from beriberi'],disease73
+shortness legs physical of swollen during of short heart activity breath rate breath rapid waking lower up,['You are most likely suffering from beriberi'],disease73
+during of shortness short heart up of breath rapid breath waking physical lower rate swollen activity legs,['You are most likely suffering from beriberi'],disease73
+feeling the hands legs in particularly of muscle in feet decreased loss lower function the pain,['You are most likely suffering from dry beriberi'],disease74
+lower feeling function decreased the hands muscle in of legs particularly in pain feet the loss,['You are most likely suffering from dry beriberi'],disease74
+feeling hands in the decreased muscle pain legs particularly in lower loss the of feet function,['You are most likely suffering from dry beriberi'],disease74
+the the pain feeling decreased of lower in loss in particularly legs hands feet muscle function,['You are most likely suffering from dry beriberi'],disease74
+loss eye rapid confusion movement memory double vision,['You are most likely suffering from thalamus  hypothalamus'],disease75
+vision rapid memory confusion double loss movement eye,['You are most likely suffering from thalamus  hypothalamus'],disease75
+double loss vision memory eye movement rapid confusion,['You are most likely suffering from thalamus  hypothalamus'],disease75
+diarrhea muscle runny malaise sore nose aches throat difficulties cough fever respiratory headache,['You are most likely suffering from Bird Flu'],disease76
+diarrhea sore runny respiratory fever aches difficulties cough muscle throat nose headache malaise,['You are most likely suffering from Bird Flu'],disease76
+fever headache muscle cough sore difficulties respiratory diarrhea aches malaise runny nose throat,['You are most likely suffering from Bird Flu'],disease76
+in swelling bones affected weight the bones loss pain fatigued easily broken,['You are most likely suffering from bone cancer'],disease77
+fatigued loss broken bones pain in affected easily bones weight swelling the,['You are most likely suffering from bone cancer'],disease77
+fatigued the weight broken easily loss affected swelling in bones bones pain,['You are most likely suffering from bone cancer'],disease77
+ache to in bone leading pain affected bone dull severe the weakened,['You are most likely suffering from bone tumour'],disease78
+severe bone pain to dull the affected ache leading bone in weakened,['You are most likely suffering from bone tumour'],disease78
+leading the in to weakened ache bone affected pain bone severe dull,['You are most likely suffering from bone tumour'],disease78
+shortness fast breathing appearance skinfatigue bluish breath wheezing cough the ribs of of,['You are most likely suffering from bronchiolitis'],disease79
+bluish cough breathing shortness appearance of skinfatigue the ribs of breath fast wheezing,['You are most likely suffering from bronchiolitis'],disease79
+ribs fast wheezing of bluish skinfatigue breath shortness of appearance breathing the cough,['You are most likely suffering from bronchiolitis'],disease79
+cough bluish of ribs fast of wheezing breath the appearance skinfatigue shortness breathing,['You are most likely suffering from bronchiolitis'],disease79
+Ringing Ears in,['You are most likely suffering from tinnitus'],disease80
+Ears in Ringing,['You are most likely suffering from tinnitus'],disease80
+sore spots neck a yellow that white jaw have tonsils difficulty a very swallowing stiff stomachaches throat headaches,['You are most likely suffering from tonsillitis'],disease81
+headaches stomachaches that throat neck white spots sore stiff a very yellow swallowing difficulty tonsils have a jaw,['You are most likely suffering from tonsillitis'],disease81
+neck yellow have swallowing difficulty jaw tonsils stiff spots throat that stomachaches a headaches sore white very a,['You are most likely suffering from tonsillitis'],disease81
+sore yellow stomachaches headaches jaw white that difficulty very neck a tonsils swallowing a spots have throat stiff,['You are most likely suffering from tonsillitis'],disease81
+ulcer swollen a fatigue ulcer near skin fever headaches the nodes lymph chills skin a,['You are most likely suffering from Tularemia'],disease82
+skin near ulcer nodes ulcer lymph swollen a the headaches chills fatigue skin a fever,['You are most likely suffering from Tularemia'],disease82
+ulcer headaches chills skin the ulcer swollen fatigue nodes skin near fever a a lymph,['You are most likely suffering from Tularemia'],disease82
+near chills swollen ulcer fever ulcer nodes skin a fatigue headaches lymph skin a the,['You are most likely suffering from Tularemia'],disease82
+appetite fatigue loss unexplained sweats night loss fever weight,['You are most likely suffering from tuberculosis'],disease83
+appetite loss unexplained fever night weight fatigue loss sweats,['You are most likely suffering from tuberculosis'],disease83
+fatigue appetite weight loss night sweats fever unexplained loss,['You are most likely suffering from tuberculosis'],disease83
+unexplained fever fatigue sweats loss loss appetite weight night,['You are most likely suffering from tuberculosis'],disease83
+pressure back rash fever pain muscle chest eye low blood severe severe headache high sensitivity,['You are most likely suffering from typhus'],disease84
+severe severe pain pressure blood fever rash low muscle eye back chest sensitivity high headache,['You are most likely suffering from typhus'],disease84
+fever headache pain severe eye high chest sensitivity severe blood muscle rash pressure low back,['You are most likely suffering from typhus'],disease84
+pain sensitivity high severe back rash pressure muscle eye fever chest blood low headache severe,['You are most likely suffering from typhus'],disease84
+weight clots loss pain lower loss blood depression back of appetite stomach abdominal,['You are most likely suffering from Pancreatic Cancer'],disease85
+stomach appetite back loss pain depression abdominal blood of weight lower loss clots,['You are most likely suffering from Pancreatic Cancer'],disease85
+abdominal depression back pain loss clots lower of weight stomach appetite blood loss,['You are most likely suffering from Pancreatic Cancer'],disease85
+loss stomach abdominal blood of weight appetite depression loss back lower pain clots,['You are most likely suffering from Pancreatic Cancer'],disease85
+loss pain of lower abdominal blood depression clots loss appetite weight back stomach,['You are most likely suffering from Pancreatic Cancer'],disease85
+in vomiting pain depression kidney bone nausea lethargy muscles your stones fractures confusion,['You are most likely suffering from hyperparathyroidism'],disease86
+in confusion pain lethargy stones depression muscles fractures your bone nausea vomiting kidney,['You are most likely suffering from hyperparathyroidism'],disease86
+stones in lethargy depression muscles bone pain nausea vomiting kidney confusion your fractures,['You are most likely suffering from hyperparathyroidism'],disease86
+pain kidney in bone stones vomiting your muscles fractures nausea confusion depression lethargy,['You are most likely suffering from hyperparathyroidism'],disease86
+shape changes redness your texture the of nail blisters of nail pus filled detachment skin in color,['You are most likely suffering from paronychia'],disease87
+nail color of in the filled of pus nail redness shape blisters skin detachment your texture changes,['You are most likely suffering from paronychia'],disease87
+detachment the of skin of changes nail blisters texture nail shape redness pus your in color filled,['You are most likely suffering from paronychia'],disease87
+the pus in shape changes of detachment color your texture of filled redness nail blisters nail skin,['You are most likely suffering from paronychia'],disease87
+What is the incubation period of the corona virus disease?,,incubationcorona
+Who is most at risk for the corona virus disease?,,corona
+Is the corona virus disease the same as SARS?,,corona
+What is a corona virus?,,corona
+Can humans become infected with a novel corona virus of animal source?,,corona
+What are the symptoms of someone infected with a corona virus?,,symptomscorona
+Can corona viruse be transmitted from person to person?,,corona
+Is there a vaccine for a novel corona virus?,,vaccine
+Is there a treatment for a novel corona virus?,,treatmentcorona
+What can I do to protect myself?,,protect
+Are health workers at risk from a novel corona virus?,,workerrisk
+What WHO recommendations for countries?,,WHO
+Is My Child at Risk for corona virus (COVID-19)?,,riskcorona
+What Should I Do if a Family Member Has Symptoms of corona virus (COVID-19)?,,symptomscorona
+How Do Doctors Test People for corona virus (COVID-19)?,,testdoctor
+Where Can I Get Updated Information on corona virus (COVID-19)?,,corona
+What is COVID-19? What is SARS-CoV-2?,,covidSARS
+Where do corona viruses come from?,,corona
+Is this virus comparable to SARS or to the seasonal flu?,,SARS
+What is the mode of transmission of corona virus?,,transmissioncorona
+When is a person infectious?,,infectious
+How severe is COVID-19 infection?  ,,infection
+Are some people more at risk than others?,,risk
+Are children also at risk of infection and what is their potential role in transmission of covid19?,,risktransmission
+What is the risk of infection in pregnant women and neonates?,,riskpregnant
+When should I be tested for COVID-19?,,testcovid
+Where can I get tested?,,test
+Do persons suffering from pollen allergy or allergies in general have a higher risk to develop severe disease when having COVID-19?,,allergycovid
+How can we differentiate between hay fever/pollen allergy related respiratory symptoms and COVID-19 infection?,,allergycovid
+Should people who suffer from pollen allergy self-isolate if they develop typical hay fever symptoms?,,allergysymptoms
+How can I avoid getting infected?,,avoidinfecting
+How can I avoid infecting others?,,avoidinfecting
+What is physical distancing and why and how should I do it?,,distancing
+ Are face masks effective in protecting against COVID-19?,,maskcovid
+How long will it take to develop a vaccine?,,vaccine
+Am I protected against COVID-19 if I had the influenza vaccine this year?,,covidinfluenza
+What is the situation in Europe at the moment?,,europecovid
+How prepared is Europe for COVID-19? ,,europecovid
+What is the EU doing?,,EU
+How many people have been infected in the EU/EEA?,,EU
+How long will this outbreak last? When will we see the peak?,,peak
+Should schools and day centres be closed?,,schools
+What are the travel restrictions in the European Union?,,restriction
+What precautions should I take if I need to travel?,,travel
+What is the risk of infection when travelling by plane?,,travel
+" Are people working in the supply chain including logistics, control services, retail, etc. at risk of getting COVID-19 by handling packages? What measures can be taken to reduce the risk of getting infected in this type of work setting?",,risk
+What is the risk of COVID-19 infection from food products imported from affected areas?,,food
+What is the risk of COVID-19 infection from animals or animal products imported from affected areas?,,animal
+I have a lung condition; am I at more risk of getting COVID-19 than somebody who doesn’t have a lung condition?,,lung
+Please can you provide detailed information about who is at high risk from a respiratory standpoint?,,risk
+Are there any additional measures that I should take to limit my risk of getting sick as I have a lung condition?,,measure
+Should I consider self-isolating to avoid catching the virus?,,isolate
+Am I safe outside of the house provided I avoid crowded areas e.g. can I go to the park or walk outside?,,safe
+Are people with respiratory disease more likely to die of COVID-19 than those without?,,covid
+"As part of my condition, I regularly have a dry cough and fever – is there a way to distinguish these symptoms with those of COVID-19?",,fever
+Should I wear a mask to protect myself from the virus?,,mask
+Can I catch COVID-19 from my pet?,,covid
+My neighbours often smoke in their garden and the smoke comes into my house if the windows are open. Can COVID-19 be transmitted through exhaled smoke?,,smoke
+The news says that the worst affected by COVID-19 are the older age population and ‘people’ with pre-existing conditions. Are ‘people with pre-existing conditions’ also older or does this refer to people of any age?,,condition
+"I had the flu vaccine this year, am I protected from this virus?",,fluvaccine
+"What is being done to protect the vulnerable population (elderly, people with health conditions)?",,vulnerable
+What are organisations in Europe doing about the situation?,,Europe
+Can the virus that causes COVID-19 be transmitted through the air?,,transmissioncorona
+Can I catch COVID-19 from the feces of someone with the disease?,,faces
+What can I do to protect myself and prevent the spread of disease,,protect
+Protection measures for persons who are in or have recently visited (past 14 days) areas where COVID-19 is spreading,,measure
+How likely am I to catch COVID-19?,,catch
+Should I worry about COVID-19?,,worry
+Are antibiotics effective in preventing or treating the COVID-19?,,antibiotic
+Are there any medicines or therapies that can prevent or cure COVID-19,,medicine
+Should I wear mask to protect myself,,mask
+How to put on use take off and dispose of a mask?,,mask
+How long is the incubation period for COVID-19?,,incubation
+Can I catch COVID-19 from my pet?,,covid
+Is it safe to receive a package from any area where COVID-19 has been reported?,,package
+Is there anything I should not do?,,notdo
+Can you have COVID-19 and show no symptoms?,,symptoms
+Can one get corona virus for a second time?,,second
+How long can the virus survive on surfaces?,,virus
+How has attention to other major illnesses (like cancer) been affected?,,illness
+Is it possible that one day this will happen again?,,again
+How to stop infection spreading of covid-19 ?,,spread
+What to do if you need medical help ?,,medical
+How to protect yourself from coronavirus ?,,protect
+Who are the People most at risk ?,,risk
+What are the symptoms of someone infected with a corona virus?,,symptoms
+How long you should self isolate ?,,isolate
+How long to self-isolate if you have symptoms ?,,isolate
+What to do If you live with someone who has symptoms?,,symptoms
+What should be done to reduce the spread of infection in your home ?,,reduceinfection
+How to Treat corona virus symptoms at home ?,,symptoms
+Can I take ibuprofen if I have corona virus ?,,ibuprofen
+When am I allowed to leave the house?,,house
+"Can I go to the dentist, my GP or another medical appointment?",,medicalappointment
+Should I stay at home or go to work?,,home
+I’m not a critical worker and I can’t work from home. What should I do?,,workerhome
+How can I find out if my work is essential or not?,,work
+Can I see my friends?,,friends
+Can I visit elderly relatives?,,relatives
+Can I go out to help a vulnerable person?,,vulnerable
+Can I go to park ?,,park
+Can I move house?,,house
+Can I drive to a national park or other green space to walk?,,drive
+What will happen to me if I break the rules?,,rules
+What to do if you have symptoms ?,,symptoms
+What can I do to prevent catching or spreading the germs ?,,spread
+Are the Intercollegiate Halls of Residence open?,,intercollegiate
+Is teaching continuing for students?,,teaching
+What is corona virus ?,,corona
+What is social distancing ?,,distancing
+What effect does coronavirus have on pregnant women?,,pregnant
+What effect will coronavirus have on my baby if I am diagnosed with the infection?,,baby
+Why are pregnant women in a vulnerable group?,,vulnerable
+What is the travel advice if I am pregnant?,,pregnant
+Should I attend my antenatal and postnatal appointments?,,appointment
+"What should I do if I develop a fever or temperature, or both, when I am pregnant?",,pregnant
+What impact will corona virus have on my pregnancy?,,pregnant
+Will my childbirth choices be affected by the coronavirus pandemic?,,child
+Will I be able to have my birth partner with me during labour and birth?,,birth
+Will I be able to have my birth partner with me if I am being induced?,,birth
+Will my birth partner be able to stay with me if I have a caesarean or instrumental birth that occurs in an operating theatre?,,birth
+Is there any advice for birth partners during the corona virus pandemic?,,birth
+How will I be tested for corona virus?,,testing
+What should I do if I test positive for coronavirus?,,testing
+Why would I be asked to self-isolate (as opposed to reducing social contact)?,,isolate
+What should I do if I’m asked to self-isolate?,,isolate
+How will my care be managed after I have recovered from coronavirus?,,corona
+What do I do if I feel unwell or I’m worried about my baby during self-isolation?,,baby
+Will being in self-isolation for suspected or confirmed corona virus affect where I give birth?,,birth
+Will being in self-isolation for suspected or confirmed coronavirus affect how I give birth?,,birth
+What happens if I go into labour during my self-isolation period?,,labour
+Could I pass corona virus to my baby?,,baby
+Will my baby be tested for coronavirus?,,baby
+What is corona virus ?,,coronavirus
+"Why is this disease being called corona virus disease 2019, covid-19 ?",,coronavirus
+Why might someone blame or avoid individuals and groups (create stigma) because of covid-19 ?,,covid
+How can people help stop stigma related to covid-19 ?,,stigma
+What is source of corona virus ?,,corona
+How does corona virus spread ?,,spread
+Why are we seeing rise in cases ?,,rise
+Can someone who has covid-19 spread the illness to others ?,,spread
+"Can the corona virus can be spread through food, including restaurant take out, refrigerated or frozen packaged food ?",,spread
+Can I get sick with covid-19 if its on food ?,,covid
+Will warm weather stop the outbreak of covid-19 ?,,weather
+What is community spread ?,,community
+What temperature kills the virus that causes covid-19 ?,,temperature
+Can mosquitoes or tricks spread the virus that causes covid-19 ?,,mosquitoes
+How can I protect myself ?,,protect
+What should I do if I have had close contact with someone who has covid-19 ?,,contact
+Does CDC recommend using face masks or face coverings to prevent covid-19 ?,,mask
+Am I at risk for covid-19 from a package or products shipping from China ?,,package
+Is it okay for me to donate blood ?,,donate
+what is the risk of my child becoming sick with covid-19 ?,,childcovid
+How can I protect my child from covid-19 infection ?,,childcovid
+Are the symptoms of covid-19 different in children than in adults ?,,symptoms
+Should children wear masks ?,,childmask
+how do I prepare my children in case of covid-19 outbreak in our community ?,,child
+How can my family and I prepare for Covid-19 ?,,family
+What steps can my family take to reduce our risk of getting covid-19 ?,,family
+What should I do if someone in my house gets sick  with covid-19 ?,,sick
+How can I prepare for covid-19 at work ?,,work
+Should I use soap and water or hand sanitizer to protect against covid-19 ?,,protect
+What cleaning products should I use to protect against covid-19 ?,,protect
+Should I make my own sanitizer if I can't find it in the stores ?,,sanitizer
+What are the symptoms and complications that covid-19 can cause ?,,symptoms
+Who is most at risk for the corona virus disease?,,riskcorona
+What should people at higher risk of serious illness with covid-19 do ?,,illness
+Can I get covid-19 from my pets or other animals ?,,animal
+How can I prevent covid-19 ?,,prevent
+What treatments are available for covid-19 ?,,treatment
+Are there any vaccines or other medical products to prevent covid-19 ?,,vaccine
+Can covid-19 be transmitted by blood transmission ?,,transmitted
+Is it safe to donate blood during the corona virus pandemic ?,,donate
+Are there any FDA-approved drug products or medicines to treat covid-19 ?,,medicine
+Are antibiotics effective in preventing or treating the COVID-19?,,antibiotic
+Is there a test for covid-19 ?,,testing
+How are people tested for covid-19 ?,,testing
+Can I get covid-19 from food worker handling my food ?,,spread
+Can animals get covid-19 disease ?,,animlas
+Can I get covid-19 from my pets or other animals ?,,pets
+what is the median  incubation period of corona virus ?,,incubarion
+What is corona virus,,coronavirus
+What are the symptoms of COVID-19,,symptoms
+How does COVID-19 spread,,spread
+Can the virus that causes COVID-19 be transmitted through the air?,,spread
+Can CoVID-19 be caught from a person who has no symptoms?,,spread
+Can I catch COVID-19 from the feces of someone with the disease?,,spread
+What can I do to protect myself from corona virus?,,protect
+How likely am I to catch COVID-19?,,risk
+Should I worry about COVID-19?,,worrycovid
+Who is at risk of developing severe illness,,risk
+Are antibiotics effective in preventing or treating the COVID-19?,,antibiotic
+Are there any medicines or therapies that can prevent or cure COVID-19 ?,,medicine
+Is there a vaccine drug or treatment for COVID-19 ?,,vaccine
+Is COVID-19 the same as SARS?,,covidSARS
+Should I wear mask to protect myself ?,,useofmask
+How to put on use take off and dispose of a mask?,,useofmask
+Can humans become infected with the COVID-19 from an animal source?,,animalsource
+Can I catch COVID-19 from my pet?,,pet
+How long does the virus survive on surfaces?,,coronavirus
+Is it safe to receive a package from any area where COVID-19 has been reported?,,package
+Do I need to wear a mask every time I step out of the home?,,mask
+What is the government doing to contain the spread of COVID-19?,,government
+"Where can I go to obtain accurate, scientific, and up-to-date information about coronavirus?",,information
+How long is the incubation period for corona virus?,,incubation
+What do we know about incubation period of corona virus?,,incubation
