@@ -1,1 +1,3 @@
-
+LSTM does not work well with BoW.
+The NLP technique altogether doesn't work well with the CNN. Since there is no finding of paper which says the same, we tried but failed.
+The old dataset was imbalanced thus certain models didn't work well with that. 
