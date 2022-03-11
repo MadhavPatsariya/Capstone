@@ -1,0 +1,1458 @@
+Text,label
+Hi,greetings
+How are you,greetings
+How you are,greetings
+anyone Present Is,greetings
+anyone Is Present,greetings
+Good Day,greetings
+up Whats,greetings
+How Do You do,greetings
+do Do You How,greetings
+Do do You How,greetings
+How Do do You,greetings
+Hey,greetings
+Hello,greetings
+Greetings,greetings
+Goodbye,bye
+Again See you,bye
+See you Again,bye
+Ciao,bye
+Hasta Vista La,bye
+Hasta La Vista,bye
+Au Revior,bye
+am I Leaving,bye
+Leaving I am,bye
+Help Thanks The For,bye
+Help Thanks For The,bye
+Thanks For Help The,bye
+Thanks Help The For,bye
+Have A Good Day,bye
+Good Day A Have,bye
+Have Good A Day,bye
+Good A Have Day,bye
+Care Take,bye
+Take Care,bye
+Thanks,bye
+made you Who,creator
+Who you made,creator
+Who made you,creator
+Your is Father Who,creator
+Father Your Who is,creator
+is Father Your Who,creator
+Who Father is Your,creator
+Who is Creator your,creator
+Who Creator is your,creator
+Creator your is Who,creator
+Creator your Who is,creator
+Creator,creator
+Father,creator
+whats Your Age,age
+Your Age whats,age
+Are How You Old,age
+You Are Old How,age
+How Old Are You,age
+How Old You Are,age
+How Old,age
+Old How,age
+Age,age
+You do can What,functions
+You What do can,functions
+What do can You,functions
+You What can do,functions
+is Functionalities What Your,functions
+Your Functionalities What is,functions
+What Your Functionalities is,functions
+is Your What Functionalities,functions
+functions,functions
+abilities,functions
+Uses,functions
+Tell Me you What do,functions
+Me you What do Tell,functions
+What Me do Tell you,functions
+Me you do Tell What,functions
+do Tell Me What you,functions
+What to do if Cuts?,Cuts
+How to cure Cuts?,Cuts
+Which medicine to apply for Cuts?,Cuts
+what to apply on cuts?,Cuts
+Cuts,Cuts
+how do you treat abrasions?,Abrasions
+Do Abrasions cause scars?,Abrasions
+Abrasions,Abrasions
+what to do if abrasions?,Abrasions
+Which medicine to apply for abrasions?,Abrasions
+How to cure abrasions?,Abrasions
+How do you treat Sting?,Stings
+stings,Stings
+What to do if you get a sting?,Stings
+Which medicine to apply if sting?,Stings
+How to remove Splinters,Splinter
+How to cure Splinters?,Splinter
+What to do if I have splinters?,Splinter
+How do you bring a splinter to the surface?,Splinter
+How do you treat a sprain?,Sprains
+what to do if i get a sprain?,Sprains
+Which cream to apply if i get a sprain?,Sprains
+Which medicine to apply if I get a sprain?,Sprains
+How do you treat a strain?,Strains
+what to do if i get a strain?,Strains
+Which cream to apply if i get a strain?,Strains
+Which medicine to apply if I get a strain?,Strains
+How do you diagnose a strain?,Strains
+Is heat or ice better for a pulled muscle?,Strains
+How do you treat a mild Fever?,Fever
+what to do if i get a mild fever?,Fever
+Which medicine to take if I get a mild fever?,Fever
+fever,Fever
+How do you treat nasal Congestion?,NasalCongestion
+what to do if i get a nasal congestion?,NasalCongestion
+Which medicine to take if I have a nasal congestion?,NasalCongestion
+what to do if i have a blocked nose?,NasalCongestion
+How do you treat a blocked nose?,NasalCongestion
+How long does nasal congestion last?,NasalCongestion
+How to cure cough?,Cough
+How do you treat cough?,Cough
+what to do if i get a cough?,Cough
+Which medicine to take if I get cough?,Cough
+How do you get rid of cough?,Cough
+How do you treat sore throat?,SoreThroat
+what to do if i get a sore throat?,SoreThroat
+Which medicine to take if I get a sore throat?,SoreThroat
+How to cure sore throat?,SoreThroat
+How do you treat gas problems?,GastrointestinalProblems
+what to do if i have Gastrointestinal problems?,GastrointestinalProblems
+Which medicine to take if I get gas problem?,GastrointestinalProblems
+How to cure Gas problems?,GastrointestinalProblems
+How do you treat Skin problems?,SkinProblems
+what to do if i get a skin allergy?,SkinProblems
+Which medicine to take if I get a skin allergy?,SkinProblems
+How to cure skin allergy?,SkinProblems
+How do you treat Abdonominal Pain?,AbdonominalPain
+what to do if i get a Abdonominal Pain?,AbdonominalPain
+Which medicine to take if I get a Abdonominal Pain?,AbdonominalPain
+How to cure Abdonominal Pain?,AbdonominalPain
+How do you treat Bruises?,Bruises
+what to do if i get a Bruise?,Bruises
+Which medicine to take if I get a Bruise?,Bruises
+How to cure Bruises?,Bruises
+How do you treat a Broken Toe?,BrokenToe
+what to do if i get a Broken Toe?,BrokenToe
+Which medicine to take if I get a Broken Toe?,BrokenToe
+How to cure Broken Toe?,BrokenToe
+How do you treat Choking?,Choking
+what to do if i get a Choke?,Choking
+Which medicine to take if I get Choked?,Choking
+How to cure Choking?,Choking
+How do you treat a wound?,Wound
+what to do if i get a Wound?,Wound
+Which medicine to take if I get wounded?,Wound
+How to cure a wound?,Wound
+How do you treat Diarrhea?,Diarrhea
+what to do if i get Diarrhea?,Diarrhea
+Which medicine to take if I get Diarrhea?,Diarrhea
+How to cure Diarrhea?,Diarrhea
+How do you treat a Frost bite?,FrostBite
+what to do if i get a Frost bite?,FrostBite
+Which medicine to take if I get a Frost bite?,FrostBite
+How to cure Frost bite?,FrostBite
+How do you treat Heat Exhaustion?,HeatExhaustion
+what to do if i feel Exhausted due to heat?,HeatExhaustion
+Which medicine to take if I get Exhausted?,HeatExhaustion
+How to cure Heat Exhaustion?,HeatExhaustion
+How do you treat Heat Stroke?,HeatStroke
+what to do if i get a Heat Stroke?,HeatStroke
+Which medicine to take if I get Stroke?,HeatStroke
+How to cure a Heat Stroke?,HeatStroke
+How do you treat a Insect Bite?,InsectBites
+what to do if a insect bites me?,InsectBites
+Which medicine to take if I get bitten by a insect?,InsectBites
+How to cure insect bite?,InsectBites
+How do you treat a bleeding nose?,nosebleed
+what to do if i my nose is bleeding?,nosebleed
+Which medicine to take if I get nose bleed?,nosebleed
+How to cure nose bleeding?,nosebleed
+How do you treat a Pulled Muscle?,PulledMuscle
+what to do if my muscle is pulled?,PulledMuscle
+Which medicine to take if I got pulled muscle?,PulledMuscle
+How to cure a pulled muscle?,PulledMuscle
+How do you treat Rectal Bleeding?,Rectalbleeding
+what to do if i get a Rectal Bleeding?,Rectalbleeding
+Which medicine to take if I get Rectal Bleeding?,Rectalbleeding
+How to cure Rectal Bleeding?,Rectalbleeding
+How do you treat Sun Burn?,SunBurn
+what to do if i get a Sun Burn?,SunBurn
+Which medicine to take if I get Sun Burn?,SunBurn
+How to cure a Sun Burn?,SunBurn
+How do you treat Testicle Pain?,TesticlePain
+what to do if i get a Testicle Pain?,TesticlePain
+Which medicine to take if I get a Testicle Pain?,TesticlePain
+How to cure Testicle Pain?,TesticlePain
+How do you treat a Vertigo?,Vertigo
+what to do if i get a Vertigo?,Vertigo
+Which medicine to take if I get Vertigo?,Vertigo
+How to cure a Vertigo?,Vertigo
+How do you treat bleeding?,NormalBleeding
+what to do if i get a Bleeding?,NormalBleeding
+Which medicine to take if I get bleeding?,NormalBleeding
+How to cure Bleeding?,NormalBleeding
+How do you treat an eye Injury?,EyeInjury
+what to do if i get a eye Injury?,EyeInjury
+Which medicine to take if I injured my eye?,EyeInjury
+How to cure injured eye?,EyeInjury
+How do you treat a chemical burn?,ChemicalBurn
+what to do if i get a Chemical Burn?,ChemicalBurn
+Which medicine to take if I get burn due to chemicals?,ChemicalBurn
+How to cure Chemical Burn?,ChemicalBurn
+How do you treat a Poison?,Poison
+what to do if i get Poison?,Poison
+Which medicine to take if I am poisoned?,Poison
+How to cure Poisoning?,Poison
+How do you treat broken Teeth ?,Teeth
+what to do if my Teeth got broken?,Teeth
+Which medicine to take if I get broken teeth?,Teeth
+cure broken teeth?,Teeth
+How do you treat a seizure?,Seizure
+what to do if i get a seizure?,Seizure
+Which medicine to take if I get seizure?,Seizure
+How to cure seizure?,Seizure
+How do you treat a head Injury?,HeadInjury
+what to do if i get a Head Injury?,HeadInjury
+Which medicine to take if I get injured in the head?,HeadInjury
+How to cure Head Injury?,HeadInjury
+How do you treat Faint?,Fainting
+what to do if i feel like Fainting?,Fainting
+Which medicine to take if I get a Faint?,Fainting
+How to cure Fainting?,Fainting
+How do you treat a mild Headache?,Headache
+what to do if i get a mild Headache?,Headache
+Which medicine to take if I have a mild headache?,Headache
+How to cure a mild headache?,Headache
+How do you treat a Cold?,Cold
+what to do if i get a mild Cold?,Cold
+Which medicine to take if I have a Cold?,Cold
+How to cure Cold?,Cold
+How do you treat Rashes?,Rash
+what to do if i get a Rash?,Rash
+Which medicine to take if I have a Rash?,Rash
+How to cure Rash?,Rash
+How do you treat a snake bite?,snakebite
+what to do if i get a snake bite?,snakebite
+Which medicine to take if I get a snake bite?,snakebite
+How to cure snake bite?,snakebite
+i got bit by a snake,snakebite
+How do you treat a animal bite?,animalbite
+How do you treat a monkey bite?,animalbite
+How do you treat a dog bite?,animalbite
+what to do if i get a animal bite?,animalbite
+Which medicine to take if I get a monekey bite?,animalbite
+How to cure dog bite?,animalbite
+i got bit by a dog,animalbite
+What to do if someone is Drowning?,Drowning
+what to do if someone drowned?,Drowning
+What steps to take if i see a drowning person?,Drowning
+How to help a drowning person?,Drowning
+How to give CPR??,CPR
+what to do in a CPR?,CPR
+What steps to take in a CPR??,CPR
+How to help a drowning person in CPR?,CPR
+How do you treat a Fracture?,Fracture
+what to do if i get a Fracture?,Fracture
+Which medicine to take if I have a Fracture?,Fracture
+How to cure a Fracture?,Fracture
+sore watery throat itchy sneezing nasal congestion nose runny eyes,disease1
+eyes congestion itchy watery sneezing runny throat nose nasal sore,disease1
+itchy congestion sore eyes runny watery sneezing throat nose nasal,disease1
+sneezing sore watery eyes nose congestion nasal throat itchy runny,disease1
+itchy runny watery nose congestion nasal sore throat sneezing eyes,disease1
+runny sneezing nose itchy eyes sore nasal watery congestion throat,disease1
+sore eyes throat nose itchy runny congestion watery sneezing nasal,disease1
+nasal sneezing throat nose congestion sore itchy runny watery eyes,disease1
+sore watery eyes nose runny congestion nasal sneezing throat itchy,disease1
+congestion itchy runny nose sore throat eyes nasal watery sneezing,disease1
+watery sneezing throat itchy clearing from eyes nose nasal drip throat cough congestion postnasal scratchy,disease1
+watery nasal itchy throat from throat scratchy drip nose cough sneezing clearing congestion eyes postnasal,disease1
+scratchy cough eyes drip sneezing itchy congestion throat nose throat clearing postnasal watery from nasal,disease1
+nasal eyes itchy throat postnasal nose watery throat scratchy cough from clearing drip sneezing congestion,disease1
+drip sneezing throat nose from congestion clearing itchy nasal throat eyes cough postnasal scratchy watery,disease1
+throat eyes drip nose postnasal cough congestion itchy throat from clearing scratchy sneezing watery nasal,disease1
+sneezing scratchy itchy eyes nasal cough throat clearing nose congestion postnasal watery from drip throat,disease1
+scratchy throat postnasal drip nose clearing watery cough itchy throat nasal from sneezing eyes congestion,disease1
+congestion nose postnasal itchy nasal sneezing clearing watery throat cough scratchy eyes throat drip from,disease1
+congestion throat throat postnasal watery eyes itchy sneezing nasal drip scratchy nose from clearing cough,disease1
+watery nasal eyes scratchy drip sneezing congestion postnasal from itchy nose cough throat clearing throat,disease1
+nose congestion watery sneezing throat scratchy eyes throat clearing postnasal itchy cough nasal drip from,disease1
+scratchy itchy nose watery clearing sneezing eyes congestion throat throat postnasal drip cough nasal from,disease1
+throat watery congestion cough eyes itchy postnasal from nose scratchy drip throat sneezing clearing nasal,disease1
+itchy eyes postnasal nasal clearing throat throat from scratchy nose watery congestion sneezing drip cough,disease1
+of palpitations Feel fainting Have decreased pale Appear shortness rate rapid energy heart breath easily Experience Develop Weakness Fatigue tired,disease2
+fainting decreased shortness Feel energy Experience tired Have Weakness palpitations Fatigue breath of Develop Appear easily pale rapid rate heart,disease2
+palpitations rapid fainting Weakness Appear energy rate Experience Have tired decreased shortness Develop breath pale Fatigue heart of Feel easily,disease2
+decreased shortness pale tired Weakness rapid heart of Have breath rate Appear palpitations energy fainting easily Experience Feel Fatigue Develop,disease2
+shortness heart Feel Weakness pale tired Develop Fatigue Appear of breath Experience decreased energy Have palpitations rate rapid fainting easily,disease2
+fainting heart Appear Fatigue Feel easily of pale rate Weakness Develop breath tired energy Have palpitations rapid Experience decreased shortness,disease2
+easily palpitations rapid Have fainting Fatigue Develop energy Weakness tired Experience rate Feel pale decreased Appear shortness breath heart of,disease2
+Feel Fatigue breath Experience fainting tired easily palpitations Weakness decreased Develop rapid shortness energy pale of Appear rate Have heart,disease2
+Weakness easily energy fainting rate rapid heart Have tired palpitations breath Appear pale shortness Feel Fatigue Develop of decreased Experience,disease2
+tired breath Experience Have decreased Develop Fatigue fainting of pale Weakness heart rate easily Appear Feel energy shortness rapid palpitations,disease2
+pale breath Fatigue decreased Have shortness palpitations Appear Weakness tired easily rapid Feel fainting heart Experience Develop of rate energy,disease2
+Feel Appear heart pale breath fainting Experience palpitations energy rate easily tired decreased Fatigue of Weakness Develop Have shortness rapid,disease2
+Experience Develop rapid Have rate shortness pale heart breath palpitations Fatigue energy fainting decreased Weakness Feel Appear of easily tired,disease2
+rapid Appear rate tired fainting energy palpitations breath decreased pale Experience easily heart of Have Develop Fatigue Weakness shortness Feel,disease2
+easily of Feel Appear fainting shortness pale Develop rate Fatigue breath tired decreased heart Weakness energy Experience Have rapid palpitations,disease2
+palpitations rate decreased Feel Have Develop Weakness breath rapid easily pale shortness heart Appear energy tired of Fatigue fainting Experience,disease2
+energy Appear pale rate Weakness rapid Fatigue heart shortness Develop of Feel fainting Experience tired breath Have easily palpitations decreased,disease2
+Weakness Feel energy breath rate fainting pale shortness heart Appear Experience Fatigue Develop of decreased rapid tired Have easily palpitations,disease2
+Appear Develop Weakness shortness Fatigue palpitations tired decreased rate breath fainting pale rapid energy heart Feel Experience Have easily of,disease2
+tired of Fatigue rapid Have energy fainting heart palpitations rate breath Develop decreased Weakness pale easily shortness Feel Appear Experience,disease2
+congestion Headaches Cough body nosesneezing throat symptoms Nasal Sore runny fever aches,disease3
+aches Sore body fever runny congestion throat nosesneezing symptoms Cough Headaches Nasal,disease3
+Cough body throat aches Sore nosesneezing Headaches fever congestion runny symptoms Nasal,disease3
+runny aches symptoms body nosesneezing congestion Headaches Cough Sore Nasal throat fever,disease3
+body Sore fever throat nosesneezing congestion Cough Headaches aches Nasal runny symptoms,disease3
+symptoms Headaches Sore fever Cough congestion body nosesneezing runny Nasal throat aches,disease3
+throat Nasal Cough runny Headaches aches nosesneezing body Sore fever symptoms congestion,disease3
+Nasal nosesneezing body congestion aches runny Cough Headaches throat symptoms Sore fever,disease3
+Cough throat symptoms aches runny Headaches congestion body Sore fever nosesneezing Nasal,disease3
+Nasal body Sore congestion symptoms runny throat Cough nosesneezing Headaches fever aches,disease3
+body Sore congestion symptoms fever aches throat nosesneezing Nasal Headaches Cough runny,disease3
+Cough symptoms congestion aches throat body fever Headaches Sore nosesneezing runny Nasal,disease3
+cough breath pain chest of shortness,disease4
+chest pain breath of shortness cough,disease4
+cough breath shortness pain of chest,disease4
+pain breath of shortness cough chest,disease4
+of pain breath cough chest shortness,disease4
+cough of pain shortness chest breath,disease4
+agitation quarrelsomeness loss irritability of orientation,disease5
+of orientation loss agitation irritability quarrelsomeness,disease5
+orientation loss quarrelsomeness irritability of agitation,disease5
+loss irritability quarrelsomeness agitation of orientation,disease5
+of loss orientation irritability agitation quarrelsomeness,disease5
+quarrelsomeness irritability agitation orientation loss of,disease5
+of tenderness periods Food cravings breast swelling absence menstrual,disease6
+of swelling menstrual Food periods tenderness absence cravings breast,disease6
+periods menstrual cravings absence tenderness of Food breast swelling,disease6
+Food breast absence tenderness menstrual swelling of cravings periods,disease6
+swelling of cravings periods absence tenderness breast menstrual Food,disease6
+breast menstrual absence cravings of swelling periods Food tenderness,disease6
+absence tenderness breast menstrual swelling of Food periods cravings,disease6
+of cravings swelling tenderness Food menstrual periods absence breast,disease6
+cravings swelling tenderness menstrual periods absence Food breast of,disease6
+sweating loss weight nervousness heart intolerance agitation to a heat tremor rate rapid excessive loss hair fatigue,disease7
+excessive intolerance fatigue a loss rapid tremor heat nervousness loss weight sweating rate to agitation heart hair,disease7
+loss heat weight agitation a rate fatigue tremor to intolerance rapid sweating excessive nervousness hair loss heart,disease7
+heart excessive sweating fatigue weight intolerance a tremor heat agitation loss nervousness hair loss rate to rapid,disease7
+loss heat hair sweating heart excessive a tremor rate loss agitation rapid nervousness intolerance to weight fatigue,disease7
+weight intolerance rapid loss sweating hair to agitation rate a nervousness loss excessive heat fatigue tremor heart,disease7
+rapid rate hair excessive fatigue heart sweating intolerance weight nervousness loss to a loss agitation heat tremor,disease7
+loss a agitation weight intolerance to heart rate nervousness sweating fatigue hair loss tremor rapid heat excessive,disease7
+loss heart weight tremor nervousness heat a excessive to rate agitation hair sweating intolerance rapid loss fatigue,disease7
+loss heart rate intolerance heat a fatigue sweating nervousness weight tremor agitation hair loss excessive rapid to,disease7
+heat to heart weight loss fatigue rate loss tremor a sweating rapid nervousness hair excessive intolerance agitation,disease7
+weight sweating a rapid rate hair excessive agitation loss heat intolerance loss fatigue to tremor heart nervousness,disease7
+agitation sweating loss heart nervousness loss heat to rapid weight fatigue hair tremor a intolerance excessive rate,disease7
+tremor fatigue heat heart hair a to nervousness sweating agitation loss rate rapid weight loss excessive intolerance,disease7
+agitation excessive loss hair heart heat rapid a nervousness fatigue tremor rate sweating to loss weight intolerance,disease7
+excessive sweating tremor nervousness intolerance rate agitation a loss to heart loss hair fatigue weight heat rapid,disease7
+rapid agitation fatigue loss sweating excessive tremor intolerance to rate weight nervousness loss heat hair heart a,disease7
+fatigue cramps dry intolerance muscle gain weight depression skin sleepiness cold mild,disease8
+gain weight mild cold muscle intolerance depression cramps dry fatigue skin sleepiness,disease8
+dry gain intolerance cold skin depression weight sleepiness fatigue cramps muscle mild,disease8
+skin cramps depression cold gain intolerance dry fatigue muscle mild weight sleepiness,disease8
+mild sleepiness cold intolerance weight fatigue depression cramps skin dry muscle gain,disease8
+fatigue intolerance weight cramps skin gain muscle cold mild sleepiness depression dry,disease8
+dry cold weight sleepiness muscle gain cramps skin depression intolerance mild fatigue,disease8
+dry fatigue gain weight muscle intolerance sleepiness cramps cold mild skin depression,disease8
+intolerance fatigue cold depression mild dry skin weight sleepiness gain muscle cramps,disease8
+muscle intolerance gain weight cramps dry sleepiness skin depression fatigue cold mild,disease8
+fatigue mild intolerance cold muscle weight gain cramps skin sleepiness dry depression,disease8
+mild depression skin cramps weight dry muscle gain intolerance cold sleepiness fatigue,disease8
+thirst dehydration hunger increased urination increased,disease9
+hunger urination increased thirst dehydration increased,disease9
+urination dehydration hunger increased thirst increased,disease9
+urination dehydration increased hunger increased thirst,disease9
+thirst hunger urination increased dehydration increased,disease9
+increased dehydration hunger increased urination thirst,disease9
+chills ulcers sweats swollen muscle aches lymph mouth throat sore nodes night fever joint,disease10
+mouth joint night throat sweats sore chills fever muscle lymph nodes ulcers swollen aches,disease10
+throat lymph joint swollen sore night chills sweats aches nodes ulcers muscle fever mouth,disease10
+swollen fever sweats throat lymph chills aches ulcers muscle joint sore mouth night nodes,disease10
+night fever chills swollen throat sore mouth ulcers nodes sweats lymph muscle joint aches,disease10
+chills mouth muscle lymph fever sore ulcers swollen nodes night throat sweats aches joint,disease10
+sore sweats throat joint nodes night mouth aches swollen chills ulcers fever muscle lymph,disease10
+nodes mouth sore fever chills ulcers night swollen aches throat lymph muscle joint sweats,disease10
+sweats throat aches chills sore mouth fever ulcers swollen nodes joint lymph night muscle,disease10
+joint chills muscle lymph throat ulcers fever aches mouth sore sweats night nodes swollen,disease10
+nodes joint muscle ulcers fever sweats aches throat chills lymph night sore mouth swollen,disease10
+joint night ulcers fever sweats lymph aches sore chills nodes mouth throat muscle swollen,disease10
+muscle chills sore fever swollen mouth throat night nodes ulcers sweats joint lymph aches,disease10
+joint aches chills lymph throat ulcers mouth nodes fever swollen sore night sweats muscle,disease10
+in shortness pain of blurred vision headache chest nosebleeds the breath blood fatigue urine dizziness,disease11
+fatigue dizziness pain headache nosebleeds blood chest breath of the urine vision blurred shortness in,disease11
+fatigue dizziness chest blurred the pain nosebleeds shortness of urine in vision breath headache blood,disease11
+nosebleeds blood pain shortness chest in breath vision of the dizziness headache fatigue blurred urine,disease11
+pain shortness nosebleeds breath in vision fatigue of dizziness blurred blood headache the urine chest,disease11
+shortness blurred fatigue breath in pain urine blood headache nosebleeds the of vision chest dizziness,disease11
+the pain vision chest blurred breath urine headache in blood of dizziness fatigue shortness nosebleeds,disease11
+of urine pain breath shortness headache blurred the chest in vision nosebleeds dizziness fatigue blood,disease11
+breath vision nosebleeds fatigue chest the blood in dizziness blurred headache of urine pain shortness,disease11
+blood in blurred of chest nosebleeds shortness headache urine fatigue breath pain vision the dizziness,disease11
+blurred shortness urine in dizziness pain the vision fatigue blood chest nosebleeds breath headache of,disease11
+headache dizziness nosebleeds urine blurred pain fatigue the vision breath blood in shortness chest of,disease11
+shortness chest urine blood pain nosebleeds blurred in fatigue dizziness headache breath vision the of,disease11
+of dizziness headache fatigue vision blood breath blurred the pain urine shortness chest nosebleeds in,disease11
+headache of shortness dizziness the blood urine pain chest breath vision fatigue in blurred nosebleeds,disease11
+of stiffness muscle fatigue of energy aches appetite ache fever lack loss,disease12
+aches of lack of loss ache energy fatigue fever muscle stiffness appetite,disease12
+of lack of loss fatigue stiffness appetite fever muscle energy aches ache,disease12
+muscle appetite fever fatigue aches lack stiffness energy ache of of loss,disease12
+of fever fatigue ache muscle appetite lack stiffness of energy aches loss,disease12
+energy stiffness muscle of loss fatigue aches lack of fever appetite ache,disease12
+lack muscle loss of appetite aches stiffness fatigue ache energy fever of,disease12
+aches energy lack fatigue of of loss stiffness ache appetite muscle fever,disease12
+energy ache loss fatigue of of stiffness appetite muscle lack aches fever,disease12
+muscle appetite energy fever stiffness of loss aches fatigue lack of ache,disease12
+muscle appetite energy ache loss of of fatigue fever stiffness lack aches,disease12
+fever stiffness of appetite energy aches fatigue of ache muscle loss lack,disease12
+fatigue the abdomen jaundice upper inflamed of in right pain appetite nausea loss liver,disease13
+the inflamed loss upper of abdomen liver in pain jaundice appetite nausea right fatigue,disease13
+loss appetite nausea inflamed right of in fatigue the liver abdomen upper pain jaundice,disease13
+right upper loss inflamed in abdomen nausea liver the fatigue of appetite pain jaundice,disease13
+loss liver appetite the of upper pain jaundice inflamed right nausea abdomen fatigue in,disease13
+pain jaundice fatigue appetite upper of right in liver inflamed the abdomen nausea loss,disease13
+jaundice liver appetite in right of pain inflamed fatigue nausea upper loss the abdomen,disease13
+abdomen right nausea the upper inflamed jaundice in fatigue liver pain of loss appetite,disease13
+the nausea jaundice upper pain abdomen of right inflamed appetite loss fatigue in liver,disease13
+liver in abdomen of fatigue right jaundice the inflamed pain upper loss appetite nausea,disease13
+the liver fatigue abdomen appetite inflamed loss upper nausea of jaundice right pain in,disease13
+of abdomen the upper liver jaundice in nausea pain right inflamed appetite fatigue loss,disease13
+pain of liver appetite jaundice upper nausea inflamed loss abdomen fatigue in right the,disease13
+pain upper loss the of jaundice right abdomen appetite liver inflamed fatigue in nausea,disease13
+fever fever pain exhaustion headache muscle rash joint severe headache,disease14
+headache joint muscle pain headache rash exhaustion fever severe fever,disease14
+fever headache joint fever rash headache pain severe exhaustion muscle,disease14
+muscle pain headache severe fever headache exhaustion fever rash joint,disease14
+severe headache exhaustion fever fever rash joint pain headache muscle,disease14
+fever rash headache joint severe muscle exhaustion fever pain headache,disease14
+exhaustion joint rash severe headache headache fever muscle pain fever,disease14
+muscle fever severe rash headache fever joint headache pain exhaustion,disease14
+exhaustion fever pain muscle rash fever headache joint headache severe,disease14
+headache severe fever exhaustion rash muscle joint pain headache fever,disease14
+general weakness vomiting chills aches nausea headaches fever body,disease15
+nausea vomiting headaches aches weakness general fever chills body,disease15
+weakness body nausea aches chills headaches general fever vomiting,disease15
+body headaches chills general aches nausea vomiting fever weakness,disease15
+weakness chills general fever vomiting headaches nausea aches body,disease15
+nausea aches headaches body vomiting general chills fever weakness,disease15
+headaches vomiting chills general aches weakness body nausea fever,disease15
+vomiting headaches general chills nausea body weakness aches fever,disease15
+general vomiting fever chills aches nausea headaches weakness body,disease15
+general red on fever the body weakness spots fever,disease16
+fever body on general spots red weakness the fever,disease16
+fever the red on general weakness fever body spots,disease16
+on fever general the fever spots weakness body red,disease16
+body spots the general on fever fever red weakness,disease16
+general weakness fever spots the on fever red body,disease16
+on spots fever fever the weakness body general red,disease16
+body fever red on weakness the spots general fever,disease16
+general fever the red body on weakness spots fever,disease16
+skin discoloration the mucous Yellow muscle Seizures membranes crying High of pitched Changes in sleepiness tone,disease17
+Seizures the High pitched membranes discoloration Changes sleepiness Yellow tone of crying skin in mucous muscle,disease17
+High skin membranes Seizures Yellow crying Changes in of muscle tone pitched mucous sleepiness the discoloration,disease17
+muscle of tone Seizures Changes in skin sleepiness membranes crying the Yellow High mucous discoloration pitched,disease17
+Changes High membranes discoloration the Seizures tone Yellow in muscle crying mucous pitched skin of sleepiness,disease17
+sleepiness skin Changes tone discoloration the in Yellow membranes muscle High Seizures crying mucous of pitched,disease17
+membranes crying pitched Changes tone Yellow Seizures High skin the sleepiness in discoloration of muscle mucous,disease17
+mucous Yellow muscle in High pitched sleepiness discoloration of the Changes crying skin membranes Seizures tone,disease17
+membranes mucous tone Seizures of crying in Changes muscle discoloration Yellow pitched the skin sleepiness High,disease17
+Changes High Yellow of muscle mucous discoloration crying in skin tone sleepiness pitched Seizures the membranes,disease17
+membranes in sleepiness Seizures Changes crying tone High mucous discoloration the muscle skin of pitched Yellow,disease17
+in sleepiness High the discoloration mucous tone Seizures crying of pitched muscle Yellow skin Changes membranes,disease17
+discoloration sleepiness Changes Seizures skin tone crying muscle the of pitched mucous in Yellow membranes High,disease17
+sleepiness pitched muscle Changes discoloration the Yellow of skin crying tone in Seizures membranes High mucous,disease17
+pitched membranes in mucous sleepiness muscle discoloration Changes tone of Yellow the High skin crying Seizures,disease17
+sleepiness muscle the crying pitched membranes discoloration skin in Seizures Yellow tone High mucous of Changes,disease17
+frequent pain watery bowel movements abdominal no inflammation signs cramping of are,disease18
+pain signs watery of abdominal no movements frequent inflammation are cramping bowel,disease18
+bowel cramping frequent inflammation movements watery of pain no abdominal are signs,disease18
+are watery cramping of frequent signs no pain movements bowel inflammation abdominal,disease18
+bowel pain signs watery movements no frequent cramping abdominal are inflammation of,disease18
+are bowel cramping abdominal signs no movements watery pain inflammation frequent of,disease18
+no are cramping inflammation pain signs bowel of abdominal movements frequent watery,disease18
+of inflammation signs pain movements abdominal frequent watery are no bowel cramping,disease18
+movements are abdominal watery signs frequent of cramping pain bowel inflammation no,disease18
+watery no abdominal pain of inflammation signs movements are cramping bowel frequent,disease18
+frequent pain of bowel movements cramping abdominal inflammation no signs are watery,disease18
+of watery are inflammation pain abdominal signs no cramping bowel frequent movements,disease18
+decrease fully glasses in with correctable clarity of vision not,disease19
+not correctable of with in vision decrease clarity fully glasses,disease19
+glasses decrease of not with vision in clarity fully correctable,disease19
+vision correctable in clarity of fully decrease glasses not with,disease19
+fully of correctable not in decrease clarity glasses with vision,disease19
+with decrease correctable vision glasses clarity fully of in not,disease19
+not glasses clarity in of vision with correctable decrease fully,disease19
+in correctable clarity with fully of vision decrease glasses not,disease19
+not vision decrease of fully in with clarity glasses correctable,disease19
+glasses of correctable not with fully clarity in decrease vision,disease19
+fatigue fever of cough chills breath shortness,disease20
+of cough fever fatigue shortness chills breath,disease20
+fever chills fatigue of cough shortness breath,disease20
+of chills fever fatigue cough shortness breath,disease20
+of chills shortness breath cough fever fatigue,disease20
+fatigue of shortness fever chills cough breath,disease20
+cough fatigue shortness breath chills of fever,disease20
+lower to the in of inability urinate bloating abdomen lower the abdomen discomfort painful,disease21
+abdomen the abdomen inability the to bloating painful lower discomfort lower urinate of in,disease21
+urinate the painful abdomen lower discomfort inability to in abdomen of lower bloating the,disease21
+painful urinate to inability lower of the abdomen the bloating lower discomfort in abdomen,disease21
+abdomen bloating urinate lower in lower inability the of the discomfort abdomen painful to,disease21
+bloating abdomen painful of the discomfort lower abdomen the to in inability urinate lower,disease21
+inability the abdomen urinate in abdomen lower of to bloating the discomfort painful lower,disease21
+urinate the bloating to lower the of lower abdomen discomfort painful inability abdomen in,disease21
+urinate abdomen painful to in inability lower discomfort bloating the abdomen lower the of,disease21
+lower in discomfort bloating the urinate lower of painful the to abdomen abdomen inability,disease21
+lower abdomen discomfort the in painful lower abdomen to inability of bloating urinate the,disease21
+bloating abdomen abdomen the discomfort painful lower to in urinate the of inability lower,disease21
+the inability of urinate bloating lower discomfort painful to in lower abdomen the abdomen,disease21
+urinate the abdomen inability the discomfort abdomen to lower painful of in lower bloating,disease21
+Mood of fatigue concentration Daytime changes Anxiety Po of sleep sleepiness Lack lack energy Headaches attention,disease22
+Mood fatigue Lack Po of of changes Anxiety lack energy Headaches Daytime sleep attention concentration sleepiness,disease22
+Daytime sleepiness Lack fatigue changes sleep Anxiety lack energy concentration Headaches attention of Po of Mood,disease22
+of energy Mood Daytime Lack sleepiness Po Headaches sleep of fatigue lack Anxiety changes concentration attention,disease22
+changes Lack of of Daytime Anxiety attention concentration Mood fatigue Headaches energy Po sleepiness sleep lack,disease22
+Po sleep attention changes energy sleepiness Mood Lack Anxiety fatigue concentration of of Headaches Daytime lack,disease22
+Headaches Daytime of sleep Po of concentration changes energy sleepiness Anxiety Mood fatigue Lack lack attention,disease22
+sleepiness Anxiety changes Daytime lack fatigue of Lack attention energy sleep of Mood Po Headaches concentration,disease22
+of lack Lack concentration Daytime Po Mood Anxiety of sleepiness sleep Headaches attention fatigue energy changes,disease22
+sleep Po Headaches of sleepiness Anxiety Lack of Daytime lack changes energy attention fatigue Mood concentration,disease22
+lack of Po sleepiness energy of Mood concentration sleep Headaches changes Lack attention fatigue Anxiety Daytime,disease22
+Mood Po attention changes concentration of of lack energy Headaches Daytime sleep fatigue sleepiness Anxiety Lack,disease22
+sleepiness Anxiety Po of Daytime Mood changes Lack lack Headaches concentration attention energy sleep fatigue of,disease22
+sleepiness of energy of Mood attention Headaches Anxiety Po Lack concentration Daytime changes sleep fatigue lack,disease22
+of Daytime sleepiness attention Po changes Anxiety Headaches of Mood energy sleep Lack lack concentration fatigue,disease22
+Daytime Anxiety fatigue of concentration Headaches energy sleep lack sleepiness Lack Mood attention of Po changes,disease22
+cough fever tenderness sore sinuses pressure in pain the ears in cloudy the headache throat nasal teeth sinus discolored facial,disease23
+ears cloudy discolored headache teeth nasal pain cough facial in pressure sinuses the fever sore in sinus tenderness throat the,disease23
+nasal in tenderness sinus cough cloudy discolored sinuses sore ears pressure the pain throat in facial the teeth fever headache,disease23
+sinus the headache the facial sinuses fever pain in pressure nasal tenderness ears teeth sore cough in throat cloudy discolored,disease23
+sore the sinus cough tenderness throat the pain facial discolored fever nasal in in cloudy ears teeth sinuses pressure headache,disease23
+pressure in teeth facial sinuses the cloudy the discolored sinus cough sore tenderness throat fever nasal headache pain ears in,disease23
+fever facial in sinus cough pain pressure nasal sore the discolored headache teeth sinuses tenderness in the throat ears cloudy,disease23
+in discolored fever pressure tenderness the cough sore in the headache nasal cloudy teeth pain throat ears facial sinuses sinus,disease23
+throat headache teeth cough pressure discolored sinuses sore sinus facial the in cloudy tenderness pain fever the ears in nasal,disease23
+discolored ears tenderness sinuses headache cough throat in teeth sore nasal facial the sinus in the cloudy fever pain pressure,disease23
+cough sinuses ears fever nasal sore sinus headache teeth tenderness the throat cloudy the in pressure facial discolored in pain,disease23
+teeth facial in cough ears pain nasal the tenderness in headache fever discolored sinuses the sore cloudy pressure throat sinus,disease23
+throat nasal ears teeth cough sore tenderness cloudy discolored pressure in fever pain the headache sinus facial in the sinuses,disease23
+tenderness throat teeth discolored headache sinuses the facial sore nasal sinus in pressure fever ears cough the cloudy pain in,disease23
+pressure teeth nasal pain sore in cough discolored in the facial sinus headache sinuses ears cloudy the fever tenderness throat,disease23
+pressure in teeth cloudy sinus ears discolored in headache sore the nasal throat tenderness facial cough sinuses fever the pain,disease23
+cloudy throat sinuses sinus nasal teeth in ears fever pain in sore tenderness facial cough the headache the pressure discolored,disease23
+in throat in discolored ears pressure pain facial headache cloudy the sinus tenderness cough the sinuses nasal sore fever teeth,disease23
+pain sore fever cough in ears headache cloudy tenderness facial teeth pressure throat the in sinuses sinus the discolored nasal,disease23
+in fever sore facial teeth cloudy discolored the nasal sinuses pressure the headache sinus ears in pain tenderness cough throat,disease23
+aches of loss fever muscle fatigue appetite,disease24
+fever loss appetite muscle of aches fatigue,disease24
+of loss aches fatigue fever appetite muscle,disease24
+aches fever of loss appetite muscle fatigue,disease24
+fatigue fever muscle loss of aches appetite,disease24
+loss fever fatigue muscle aches appetite of,disease24
+appetite muscle loss fever of aches fatigue,disease24
+painful loss swollen glands appetite salivary fever fatigue headache,disease25
+appetite painful headache salivary fever loss glands fatigue swollen,disease25
+loss headache glands fatigue salivary fever swollen painful appetite,disease25
+loss glands painful salivary swollen headache fatigue appetite fever,disease25
+painful loss swollen appetite fever fatigue salivary glands headache,disease25
+swollen salivary fatigue appetite painful fever glands headache loss,disease25
+fatigue loss swollen appetite painful fever salivary glands headache,disease25
+appetite fatigue swollen loss glands headache fever salivary painful,disease25
+fever fatigue painful swollen headache appetite salivary loss glands,disease25
+cough conjunctivitis runny fever high nose dry,disease26
+runny conjunctivitis high dry cough nose fever,disease26
+cough fever high nose dry runny conjunctivitis,disease26
+conjunctivitis nose cough fever high runny dry,disease26
+conjunctivitis fever runny dry nose cough high,disease26
+runny conjunctivitis fever dry cough high nose,disease26
+cough conjunctivitis nose runny dry high fever,disease26
+muscle dry difficulty swallowing vision weakness drooping double mouth blurred vision eyelids,disease27
+double drooping weakness muscle dry swallowing mouth blurred eyelids vision difficulty vision,disease27
+vision mouth weakness drooping eyelids vision difficulty swallowing blurred double dry muscle,disease27
+vision drooping difficulty muscle double swallowing mouth blurred dry eyelids vision weakness,disease27
+dry muscle vision swallowing blurred drooping mouth weakness vision eyelids double difficulty,disease27
+eyelids mouth double vision weakness difficulty drooping vision dry muscle swallowing blurred,disease27
+muscle dry drooping swallowing vision eyelids vision double blurred difficulty mouth weakness,disease27
+blurred double drooping eyelids muscle dry vision swallowing mouth difficulty weakness vision,disease27
+vision double dry blurred muscle drooping mouth eyelids difficulty vision swallowing weakness,disease27
+swallowing vision blurred vision mouth dry difficulty eyelids muscle weakness double drooping,disease27
+difficulty eyelids double muscle mouth drooping blurred swallowing dry weakness vision vision,disease27
+mouth swallowing double weakness dry eyelids vision vision blurred difficulty drooping muscle,disease27
+rapid deterioration mental,disease28
+mental rapid deterioration,disease28
+neck irritability sudden stiff loss headache memory back loss weakness muscle vomiting seizures of po confusion consciousness fever responsiveness drowsiness,disease29
+confusion of memory responsiveness fever loss consciousness sudden loss muscle back headache po irritability drowsiness seizures stiff weakness neck vomiting,disease29
+loss loss weakness seizures confusion po sudden stiff irritability vomiting memory fever of responsiveness neck consciousness headache muscle back drowsiness,disease29
+vomiting muscle back memory fever loss confusion of drowsiness po loss sudden seizures headache responsiveness weakness irritability consciousness neck stiff,disease29
+of loss irritability muscle vomiting loss memory seizures stiff responsiveness consciousness headache fever confusion back weakness neck po drowsiness sudden,disease29
+fever drowsiness sudden vomiting headache confusion weakness consciousness seizures back irritability of po loss muscle stiff loss memory responsiveness neck,disease29
+loss loss consciousness seizures of irritability neck sudden po fever muscle drowsiness memory back confusion vomiting headache weakness stiff responsiveness,disease29
+weakness consciousness po loss headache memory seizures back neck drowsiness sudden stiff fever loss of responsiveness irritability vomiting muscle confusion,disease29
+vomiting loss headache sudden muscle neck seizures loss stiff weakness fever back memory irritability drowsiness responsiveness consciousness confusion po of,disease29
+vomiting of responsiveness neck loss loss back muscle confusion drowsiness stiff headache weakness consciousness irritability seizures po memory sudden fever,disease29
+memory sudden confusion vomiting fever seizures loss stiff back drowsiness po weakness headache neck irritability responsiveness of consciousness muscle loss,disease29
+of loss confusion headache drowsiness muscle po irritability back seizures sudden responsiveness neck weakness loss fever memory stiff vomiting consciousness,disease29
+loss irritability memory weakness seizures vomiting responsiveness stiff back of consciousness drowsiness fever muscle confusion headache loss sudden po neck,disease29
+back vomiting responsiveness confusion weakness seizures of sudden loss consciousness irritability stiff memory loss headache drowsiness neck muscle po fever,disease29
+memory seizures irritability drowsiness weakness vomiting loss consciousness responsiveness sudden neck loss of confusion headache stiff po fever muscle back,disease29
+confusion vomiting fever seizures weakness po sudden of back loss responsiveness drowsiness stiff muscle consciousness neck loss headache irritability memory,disease29
+memory back fever weakness muscle loss drowsiness seizures vomiting sudden loss responsiveness of irritability stiff headache neck confusion po consciousness,disease29
+memory vomiting back loss fever drowsiness irritability confusion loss responsiveness consciousness muscle sudden stiff headache po seizures neck of weakness,disease29
+drowsiness back memory irritability fever vomiting muscle consciousness confusion headache stiff loss seizures responsiveness neck po loss weakness sudden of,disease29
+muscle weakness vomiting stiff loss drowsiness of memory po confusion sudden irritability headache neck seizures loss consciousness responsiveness back fever,disease29
+upper nausea vomiting pain abdominal abdominal distention,disease30
+vomiting pain upper abdominal distention nausea abdominal,disease30
+pain nausea upper vomiting distention abdominal abdominal,disease30
+distention upper abdominal abdominal nausea vomiting pain,disease30
+vomiting pain distention upper abdominal nausea abdominal,disease30
+abdominal upper distention vomiting pain nausea abdominal,disease30
+vomiting upper nausea abdominal distention abdominal pain,disease30
+Less bleeding diarrhea fissures prolapse Lower rectal movements Anal abdominal bowel discomfort,disease31
+diarrhea Anal bowel rectal Less prolapse movements fissures Lower discomfort abdominal bleeding,disease31
+prolapse discomfort Anal abdominal Less rectal fissures Lower bowel bleeding diarrhea movements,disease31
+prolapse fissures abdominal movements Less bowel bleeding discomfort Lower diarrhea Anal rectal,disease31
+Lower rectal fissures Anal bleeding abdominal bowel diarrhea movements prolapse Less discomfort,disease31
+fissures bowel diarrhea rectal Anal abdominal movements bleeding prolapse discomfort Lower Less,disease31
+movements fissures Lower abdominal Less prolapse bowel diarrhea Anal discomfort rectal bleeding,disease31
+rectal prolapse Less discomfort bleeding abdominal Lower movements fissures bowel diarrhea Anal,disease31
+Less bleeding movements discomfort bowel Anal rectal abdominal Lower fissures prolapse diarrhea,disease31
+movements fissures Anal diarrhea bleeding Lower Less abdominal discomfort bowel rectal prolapse,disease31
+abdominal Anal diarrhea Less movements prolapse bleeding Lower discomfort fissures rectal bowel,disease31
+fissures abdominal rectal Less prolapse movements bleeding diarrhea discomfort Lower bowel Anal,disease31
+appetite tenderness nausea of pain abdominal fever vomiting loss abdominal,disease32
+fever of pain vomiting tenderness abdominal nausea loss appetite abdominal,disease32
+tenderness pain of nausea vomiting fever abdominal abdominal appetite loss,disease32
+nausea abdominal loss fever pain appetite tenderness of abdominal vomiting,disease32
+abdominal appetite fever tenderness of abdominal pain loss nausea vomiting,disease32
+vomiting of pain nausea abdominal tenderness fever loss abdominal appetite,disease32
+loss of appetite nausea tenderness fever abdominal abdominal pain vomiting,disease32
+appetite fever loss of abdominal nausea tenderness abdominal vomiting pain,disease32
+pain loss fever nausea appetite abdominal tenderness abdominal vomiting of,disease32
+appetite abdominal pain abdominal vomiting fever nausea tenderness loss of,disease32
+may fatigue trouble problems sleep irritabilityheadaches attention concentrating restlessness problems as that appear also memory,disease33
+problems that concentrating fatigue sleep may memory appear restlessness also as trouble problems attention irritabilityheadaches,disease33
+also fatigue concentrating as trouble restlessness may attention sleep memory problems that appear problems irritabilityheadaches,disease33
+also as sleep problems memory that fatigue appear trouble concentrating may problems irritabilityheadaches attention restlessness,disease33
+problems memory irritabilityheadaches sleep also may problems concentrating that restlessness appear as fatigue trouble attention,disease33
+also problems restlessness trouble may concentrating irritabilityheadaches problems memory fatigue appear attention as that sleep,disease33
+that memory trouble also concentrating problems may irritabilityheadaches problems sleep restlessness appear as fatigue attention,disease33
+concentrating restlessness problems irritabilityheadaches attention sleep as problems may trouble memory fatigue that appear also,disease33
+attention trouble problems appear also sleep fatigue memory problems restlessness irritabilityheadaches as may concentrating that,disease33
+that as restlessness trouble concentrating fatigue problems irritabilityheadaches attention sleep memory problems may appear also,disease33
+trouble restlessness memory problems also appear that concentrating problems sleep may attention irritabilityheadaches as fatigue,disease33
+trouble also appear as irritabilityheadaches fatigue problems concentrating sleep problems attention restlessness may that memory,disease33
+also problems appear concentrating irritabilityheadaches problems trouble fatigue sleep as memory restlessness may attention that,disease33
+fatigue problems concentrating may attention as also irritabilityheadaches restlessness problems appear trouble that memory sleep,disease33
+irritabilityheadaches sleep memory problems trouble fatigue restlessness also concentrating attention that problems appear as may,disease33
+Weight loss Diarrhea pain diarrhea Vomiting Bloody Fever Abdominal,disease34
+Bloody Vomiting loss Abdominal Fever Weight diarrhea pain Diarrhea,disease34
+pain Bloody loss Diarrhea diarrhea Abdominal Vomiting Weight Fever,disease34
+Diarrhea loss Abdominal diarrhea Bloody Fever Weight pain Vomiting,disease34
+Diarrhea Abdominal Weight Vomiting loss Fever diarrhea pain Bloody,disease34
+diarrhea loss Fever Diarrhea Vomiting Weight pain Bloody Abdominal,disease34
+Diarrhea Fever loss Weight diarrhea Abdominal pain Bloody Vomiting,disease34
+Weight diarrhea Fever Bloody Vomiting loss Abdominal Diarrhea pain,disease34
+Abdominal pain diarrhea loss Weight Bloody Vomiting Fever Diarrhea,disease34
+Sleep droopy double paralysis daytime hallucinations vision eyelids Excessive sleepiness,disease35
+double droopy paralysis Excessive Sleep sleepiness daytime vision hallucinations eyelids,disease35
+eyelids Sleep droopy double sleepiness Excessive hallucinations paralysis vision daytime,disease35
+eyelids sleepiness hallucinations paralysis Sleep vision Excessive double daytime droopy,disease35
+paralysis hallucinations Excessive double vision droopy daytime eyelids sleepiness Sleep,disease35
+daytime paralysis eyelids hallucinations Excessive droopy Sleep vision double sleepiness,disease35
+sleepiness double vision Sleep droopy daytime Excessive eyelids hallucinations paralysis,disease35
+vision daytime sleepiness Sleep eyelids hallucinations double paralysis droopy Excessive,disease35
+paralysis vision droopy eyelids sleepiness hallucinations Sleep Excessive daytime double,disease35
+daytime vision hallucinations Excessive sleepiness Sleep droopy paralysis double eyelids,disease35
+urine blood kidney in in tract urinary infections pain tractU painstones the rinary the,disease36
+blood urine rinary urinary painstones the the kidney infections tract tractU pain in in,disease36
+the rinary kidney infections blood in urinary urine tract painstones the in pain tractU,disease36
+blood tract in urine kidney infections in pain the the urinary tractU painstones rinary,disease36
+in infections urine in tract pain tractU painstones blood kidney the the rinary urinary,disease36
+infections in tract urinary blood kidney in the tractU rinary painstones urine the pain,disease36
+kidney tractU the urinary painstones blood in urine tract the pain infections in rinary,disease36
+rinary in the pain urine blood infections the tract in tractU painstones kidney urinary,disease36
+urinary infections pain blood in painstones urine the kidney in tractU tract rinary the,disease36
+rinary urine tractU in blood in painstones kidney tract the pain the infections urinary,disease36
+the pain painstones blood rinary infections the urinary urine in tractU tract in kidney,disease36
+tractU tract rinary the kidney painstones pain in infections urine urinary blood in the,disease36
+the infections tractU in blood tract urine pain in kidney rinary painstones the urinary,disease36
+blood painstones urinary tract infections kidney in urine in the tractU the pain rinary,disease36
+urinating back pain pain pain Blood Groin low pain rectal Fever abdominal,disease37
+pain Fever low pain rectal abdominal Blood Groin pain back urinating pain,disease37
+Fever rectal pain pain low pain back urinating Groin pain Blood abdominal,disease37
+Groin back Blood pain pain Fever pain pain urinating rectal low abdominal,disease37
+low abdominal pain back pain rectal pain Blood Groin urinating pain Fever,disease37
+Groin pain Fever abdominal pain urinating Blood pain rectal pain low back,disease37
+pain pain pain abdominal low Blood rectal pain urinating back Groin Fever,disease37
+back Fever pain urinating Blood Groin pain pain rectal pain low abdominal,disease37
+rectal Blood pain Fever pain Groin abdominal urinating back pain pain low,disease37
+urinating Groin low rectal abdominal pain pain back Blood Fever pain pain,disease37
+low pain urinating Fever Groin abdominal Blood pain pain pain back rectal,disease37
+pain low Blood pain abdominal pain urinating rectal Fever Groin pain back,disease37
+to fullness pressure heaviness that the goes of shortness breath chest pain arm tightness sweating ache,disease38
+ache goes heaviness chest shortness pressure pain tightness sweating of the that breath fullness arm to,disease38
+pain the tightness of breath chest that goes sweating pressure ache shortness arm fullness to heaviness,disease38
+tightness goes heaviness that ache fullness of arm pain chest sweating to breath the pressure shortness,disease38
+tightness shortness breath that goes to of pressure sweating the pain arm fullness chest ache heaviness,disease38
+to ache breath pressure heaviness sweating that chest arm pain the tightness shortness fullness goes of,disease38
+to shortness of heaviness arm chest ache pain fullness the sweating breath goes that pressure tightness,disease38
+that of pressure shortness to the sweating fullness goes tightness heaviness arm ache pain breath chest,disease38
+shortness ache heaviness of goes that the tightness chest pressure sweating fullness pain to arm breath,disease38
+fullness arm ache the pain breath that pressure chest heaviness to goes shortness of tightness sweating,disease38
+to shortness fullness sweating pressure heaviness chest arm of pain the breath goes tightness ache that,disease38
+of ache tightness heaviness breath shortness pressure chest pain to fullness sweating the that goes arm,disease38
+ache chest pain fullness sweating that goes tightness of pressure the heaviness to arm breath shortness,disease38
+that tightness heaviness pain arm pressure goes ache of sweating to fullness the breath shortness chest,disease38
+tightness breath pressure chest sweating arm that fullness heaviness ache pain the to goes shortness of,disease38
+arm sweating the shortness chest pain breath heaviness fullness goes to pressure ache that tightness of,disease38
+coma aches skin headache paralysis fever sleepiness stiff disorientation convulsions neck body tremors rash,disease39
+coma convulsions body rash skin paralysis stiff disorientation sleepiness fever tremors neck aches headache,disease39
+headache disorientation tremors paralysis coma skin sleepiness stiff neck rash fever body convulsions aches,disease39
+aches sleepiness stiff tremors skin fever disorientation body paralysis neck convulsions rash headache coma,disease39
+stiff paralysis sleepiness fever rash disorientation skin coma aches convulsions headache tremors neck body,disease39
+disorientation tremors sleepiness body aches headache skin coma stiff convulsions rash neck paralysis fever,disease39
+neck convulsions rash stiff paralysis coma aches disorientation body sleepiness headache fever tremors skin,disease39
+sleepiness disorientation headache body coma fever tremors convulsions aches skin neck stiff rash paralysis,disease39
+tremors fever neck aches convulsions disorientation paralysis skin coma body rash headache sleepiness stiff,disease39
+stiff headache tremors body sleepiness aches rash paralysis coma neck fever disorientation convulsions skin,disease39
+paralysis skin body headache tremors stiff rash disorientation coma fever sleepiness neck aches convulsions,disease39
+tremors convulsions stiff coma paralysis disorientation fever neck headache aches skin sleepiness body rash,disease39
+sleepiness disorientation neck fever convulsions headache tremors paralysis skin coma aches stiff rash body,disease39
+tremors paralysis headache rash skin convulsions disorientation neck coma aches fever sleepiness stiff body,disease39
+pressure blood fevers chills pus swollen red low high,disease40
+low red swollen fevers pus high pressure chills blood,disease40
+low swollen chills red pus high pressure blood fevers,disease40
+red fevers blood pus low chills high swollen pressure,disease40
+blood pressure swollen red high low chills fevers pus,disease40
+fevers blood high chills swollen pressure pus red low,disease40
+red swollen low high fevers pressure blood chills pus,disease40
+low fevers pressure high blood chills pus red swollen,disease40
+fevers chills red swollen blood low pus high pressure,disease40
+vision blurred,disease41
+Flashing lights floaters,disease42
+lights floaters Flashing,disease42
+Flashing floaters lights,disease42
+vision of haziness blurriness,disease43
+blurriness haziness vision of,disease43
+of haziness blurriness vision,disease43
+haziness vision blurriness of,disease43
+cancer the periods pelvic heavy womb uterus ovaries the of pain cervix of prolapse,disease44
+the ovaries uterus cancer the pelvic heavy of cervix prolapse periods pain of womb,disease44
+of ovaries of heavy uterus prolapse cervix cancer pelvic the pain the periods womb,disease44
+cervix pain the prolapse the womb uterus ovaries heavy pelvic of periods of cancer,disease44
+periods womb cervix pain of cancer prolapse of heavy ovaries uterus pelvic the the,disease44
+prolapse ovaries the womb of heavy cancer the of cervix pain uterus periods pelvic,disease44
+heavy cancer cervix the ovaries uterus periods pelvic pain of of prolapse the womb,disease44
+prolapse pain uterus heavy the periods of cervix of cancer the ovaries pelvic womb,disease44
+prolapse periods womb uterus cancer ovaries cervix of heavy pain the pelvic the of,disease44
+uterus of periods pain heavy the pelvic ovaries cancer the of prolapse cervix womb,disease44
+cervix the uterus periods womb of the ovaries pain prolapse pelvic cancer of heavy,disease44
+heavy cancer the of prolapse pain cervix womb the ovaries pelvic uterus of periods,disease44
+cancer pain cervix prolapse ovaries the periods the pelvic of of heavy womb uterus,disease44
+cervix periods of the cancer of heavy pelvic prolapse uterus the ovaries pain womb,disease44
+that is typically odorless vaginal a discharge thick,disease45
+thick vaginal a that discharge is typically odorless,disease45
+is discharge typically that vaginal a odorless thick,disease45
+is thick discharge typically that vaginal a odorless,disease45
+thick is typically discharge odorless vaginal that a,disease45
+vaginal thick a that is discharge typically odorless,disease45
+vaginal discharge thick a that is odorless typically,disease45
+that a typically discharge odorless is thick vaginal,disease45
+upset easily irritable withdrawal Sleep worsen depression underweight social disrupted,disease46
+social depression irritable easily upset worsen disrupted Sleep withdrawal underweight,disease46
+worsen withdrawal upset depression underweight Sleep irritable social easily disrupted,disease46
+easily underweight depression worsen irritable Sleep upset disrupted social withdrawal,disease46
+easily underweight withdrawal depression worsen irritable Sleep disrupted social upset,disease46
+easily upset depression irritable social withdrawal worsen Sleep disrupted underweight,disease46
+underweight disrupted social upset worsen Sleep depression withdrawal irritable easily,disease46
+irritable disrupted Sleep worsen upset withdrawal easily social depression underweight,disease46
+Sleep disrupted easily depression social upset underweight irritable worsen withdrawal,disease46
+social Sleep worsen upset disrupted withdrawal depression irritable easily underweight,disease46
+discomfort of chest wheezing breath shortness cough,disease47
+wheezing cough chest breath discomfort of shortness,disease47
+wheezing shortness cough chest breath discomfort of,disease47
+shortness wheezing breath discomfort of chest cough,disease47
+discomfort of cough shortness breath wheezing chest,disease47
+discomfort of breath wheezing chest cough shortness,disease47
+breath shortness discomfort cough chest of wheezing,disease47
+shortness wheezing breath of,disease48
+breath shortness of wheezing,disease48
+of shortness breath wheezing,disease48
+area from infection areas grows of which hair skin tiny of,disease49
+skin grows hair infection of areas which tiny area of from,disease49
+infection grows tiny area hair skin areas which of from of,disease49
+hair of of areas grows area skin tiny from which infection,disease49
+from of areas infection tiny hair area grows skin of which,disease49
+of tiny area which of skin hair from grows infection areas,disease49
+from grows tiny of which skin areas infection hair of area,disease49
+of areas hair of tiny infection area grows which from skin,disease49
+of infection hair from skin tiny grows areas which of area,disease49
+from infection which hair areas of skin of area tiny grows,disease49
+areas infection of skin hair which from area grows of tiny,disease49
+shaped in col look red from pink shiny ranging raised to dome,disease50
+in to ranging col raised look pink red shaped dome from shiny,disease50
+red look in ranging shaped col dome to shiny pink from raised,disease50
+ranging dome shaped from red in shiny pink look col raised to,disease50
+pink look to ranging raised from col red dome shaped shiny in,disease50
+to red ranging pink shaped in from shiny col look dome raised,disease50
+to pink shaped ranging look from in raised shiny red col dome,disease50
+dome shaped pink shiny to from raised ranging red look col in,disease50
+in raised from to shiny pink col dome ranging shaped red look,disease50
+pink raised red from in dome shaped ranging col to look shiny,disease50
+in from shiny pink red raised ranging look col to dome shaped,disease50
+red dome to look raised col from shaped pink shiny in ranging,disease50
+small flushing cysts facial the of blushing tissue redness acial skin thickening,disease51
+acial small facial redness flushing thickening blushing of tissue the cysts skin,disease51
+small thickening flushing skin of redness facial blushing tissue the acial cysts,disease51
+thickening redness acial small tissue skin cysts the of flushing facial blushing,disease51
+skin blushing the small acial thickening redness cysts tissue flushing facial of,disease51
+blushing skin flushing redness small facial thickening tissue cysts of acial the,disease51
+of blushing tissue redness cysts flushing thickening small acial facial skin the,disease51
+redness acial blushing the skin thickening of flushing small facial cysts tissue,disease51
+thickening the cysts small skin facial of blushing tissue flushing acial redness,disease51
+the acial flushing of redness thickening facial blushing tissue cysts small skin,disease51
+redness facial flushing blushing thickening the skin of cysts acial tissue small,disease51
+cysts the of blushing small tissue redness flushing acial thickening skin facial,disease51
+blistering fever aches fluid body pain rash nausea stinging stabbing burning chills itching tingling rash one filled sided headache red sensation,disease52
+rash chills headache stinging fever blistering filled pain red aches body itching stabbing sided sensation burning one tingling nausea rash fluid,disease52
+headache burning stabbing body aches pain fever rash sided chills tingling filled stinging itching red nausea blistering one fluid rash sensation,disease52
+tingling one chills blistering nausea sided headache filled sensation fluid rash burning body stabbing itching fever rash stinging pain red aches,disease52
+fluid chills stinging body itching tingling filled burning sided rash aches nausea rash one blistering pain fever headache red sensation stabbing,disease52
+body stinging rash tingling pain stabbing fluid one rash itching chills nausea blistering red aches sided fever burning filled headache sensation,disease52
+pain headache itching burning body red chills aches stinging nausea blistering rash fever one fluid sensation tingling filled stabbing sided rash,disease52
+stinging body pain one stabbing itching tingling rash headache nausea fluid blistering chills aches burning rash red filled sided fever sensation,disease52
+red rash sided blistering burning itching aches pain body filled rash tingling chills stinging nausea headache sensation fluid one fever stabbing,disease52
+rash sided filled body headache itching fluid stinging red tingling sensation blistering fever chills nausea stabbing one burning pain aches rash,disease52
+body pain sensation burning red stabbing headache aches fluid tingling blistering itching rash stinging filled nausea sided chills one rash fever,disease52
+rash headache red aches fluid itching blistering stabbing fever burning filled sided chills one stinging nausea sensation pain body tingling rash,disease52
+stinging pain rash chills aches rash one sided red body sensation tingling fluid fever headache stabbing itching burning filled blistering nausea,disease52
+headache pain fluid sensation sided body rash stinging rash chills blistering itching tingling red fever aches nausea burning filled one stabbing,disease52
+rash fluid chills blistering nausea burning stinging sided fever one stabbing sensation rash body filled aches headache pain red itching tingling,disease52
+blistering aches rash burning sided stinging fluid body rash itching tingling fever stabbing chills pain filled red sensation one nausea headache,disease52
+aches stabbing rash itching headache rash burning one blistering tingling red body fever pain nausea fluid filled sensation stinging chills sided,disease52
+red one chills burning fluid headache tingling blistering rash sensation aches nausea stinging rash body itching pain stabbing filled fever sided,disease52
+stabbing nausea rash one headache body sided stinging blistering sensation chills red fluid pain aches burning fever filled rash itching tingling,disease52
+body red one filled nausea sensation tingling rash pain fever stinging stabbing blistering rash aches headache burning chills fluid sided itching,disease52
+fluid headache sided red aches rash body rash stabbing sensation stinging nausea pain blistering chills filled tingling fever one burning itching,disease52
+scaly head forehead plaques Reddish,disease53
+plaques forehead scaly head Reddish,disease53
+scaly plaques forehead head Reddish,disease53
+scaly head plaques forehead Reddish,disease53
+Reddish forehead head scaly plaques,disease53
+uninflamed pus filled pimples blackheads t,disease54
+t pimples filled blackheads uninflamed pus,disease54
+blackheads pimples pus t uninflamed filled,disease54
+pus uninflamed pimples filled blackheads t,disease54
+pimples filled blackheads pus t uninflamed,disease54
+uninflamed pimples t filled pus blackheads,disease54
+growth skin painless fleshy the on,disease55
+skin fleshy growth painless on the,disease55
+fleshy skin painless on the growth,disease55
+on fleshy the painless growth skin,disease55
+on growth painless skin fleshy the,disease55
+fleshy the on painless growth skin,disease55
+tightness swelling pain tenderness redness hardening skin itching,disease56
+redness skin tightness swelling hardening tenderness pain itching,disease56
+redness tightness tenderness itching pain swelling hardening skin,disease56
+redness pain skin tenderness tightness hardening swelling itching,disease56
+pain tightness itching swelling skin hardening redness tenderness,disease56
+redness itching swelling tightness pain skin tenderness hardening,disease56
+itching redness skin tenderness hardening pain tightness swelling,disease56
+itching tenderness pain skin redness tightness swelling hardening,disease56
+big sever violet a mild colour angular bumps borders itching,disease57
+bumps big itching sever colour borders angular mild violet a,disease57
+big angular bumps a sever itching borders mild colour violet,disease57
+itching colour big bumps borders mild a violet angular sever,disease57
+bumps a mild colour angular sever borders itching violet big,disease57
+bumps itching violet big angular borders sever mild a colour,disease57
+bumps angular a sever itching colour borders violet mild big,disease57
+borders itching violet angular mild sever big colour bumps a,disease57
+big borders violet itching angular sever mild colour a bumps,disease57
+sever bumps borders mild big violet angular a itching colour,disease57
+forgetfulness simple old age,disease58
+old age simple forgetfulness,disease58
+simple forgetfulness age old,disease58
+flare itch swell welts,disease59
+welts itch flare swell,disease59
+flare welts swell itch,disease59
+pain abdominal teeth vomiting skin discolored glands throat deteriorating constipation salivary dehydration swollen dry sore,disease60
+dry glands teeth skin abdominal constipation sore dehydration deteriorating vomiting salivary pain throat discolored swollen,disease60
+teeth skin dehydration deteriorating swollen constipation abdominal vomiting glands salivary pain sore throat dry discolored,disease60
+dry throat dehydration salivary swollen deteriorating abdominal pain sore skin teeth vomiting glands constipation discolored,disease60
+skin vomiting throat salivary glands pain swollen constipation discolored dehydration dry teeth abdominal deteriorating sore,disease60
+swollen vomiting skin abdominal salivary deteriorating discolored dehydration pain constipation sore throat glands teeth dry,disease60
+skin vomiting pain teeth dehydration throat swollen glands sore deteriorating salivary discolored dry constipation abdominal,disease60
+glands teeth abdominal dehydration deteriorating constipation salivary discolored vomiting sore skin swollen throat pain dry,disease60
+glands swollen vomiting throat abdominal pain constipation discolored dry sore salivary deteriorating skin dehydration teeth,disease60
+discolored dehydration abdominal swollen teeth deteriorating constipation glands dry throat salivary skin pain vomiting sore,disease60
+deteriorating dehydration glands constipation teeth vomiting discolored sore pain throat abdominal salivary dry skin swollen,disease60
+swollen constipation skin abdominal deteriorating vomiting dry salivary dehydration throat pain teeth sore glands discolored,disease60
+dehydration salivary teeth abdominal swollen constipation dry glands discolored sore pain skin deteriorating throat vomiting,disease60
+dehydration glands deteriorating abdominal constipation sore teeth swollen pain skin vomiting dry discolored throat salivary,disease60
+sore salivary abdominal glands vomiting deteriorating throat teeth swollen dehydration pain discolored dry skin constipation,disease60
+sex Penile of penis completion occurs f hard erection enough,disease61
+penis sex erection enough hard Penile f completion occurs of,disease61
+penis Penile of enough erection f hard sex completion occurs,disease61
+penis erection sex Penile f enough hard occurs completion of,disease61
+penis Penile enough of completion f hard erection sex occurs,disease61
+penis sex completion f hard enough of erection Penile occurs,disease61
+enough f Penile occurs penis of sex completion erection hard,disease61
+sex penis erection enough Penile hard occurs f completion of,disease61
+of sex enough f penis completion Penile erection hard occurs,disease61
+enough Penile hard erection sex of occurs completion f penis,disease61
+urgently flow tract of of need blockage urinate the urine urinary to infections slow urethra,disease62
+of the urinary flow to slow urgently need urinate of blockage urethra tract infections urine,disease62
+urine of of urethra need infections to slow urgently urinate urinary flow the blockage tract,disease62
+of slow flow urgently need tract to infections urinate urinary urine blockage of the urethra,disease62
+tract blockage of urinary urine slow need flow urinate infections the to urgently urethra of,disease62
+of urine infections of tract flow need to urethra urgently the urinate blockage slow urinary,disease62
+urinary slow to blockage urinate of urethra of tract the urgently urine infections flow need,disease62
+urinary infections blockage urgently to urinate slow need flow tract of urine the of urethra,disease62
+to urine urgently tract urethra of blockage need urinate slow infections urinary of the flow,disease62
+urgently need blockage urethra urinate of urine slow urinary flow infections of tract the to,disease62
+of to urethra urinate slow urine urinary of tract flow infections the blockage need urgently,disease62
+need urinary flow blockage the tract infections urgently of of urinate slow urine urethra to,disease62
+blockage to of urinary urine tract urethra urgently flow infections slow urinate of need the,disease62
+urethra of slow urinate tract blockage flow to urine urinary the urgently infections of need,disease62
+infections urinary flow tract of to urethra slow blockage urgently the of need urine urinate,disease62
+Hopelessness Lack Fatigue appetite other excessive decisions of making of physical Loss concentration hunger Insomnia symptomsinadequacy,disease63
+Insomnia Lack hunger making Hopelessness Loss appetite other of decisions Fatigue of physical excessive concentration symptomsinadequacy,disease63
+symptomsinadequacy Insomnia Lack decisions appetite making of physical other Loss hunger of concentration excessive Fatigue Hopelessness,disease63
+decisions symptomsinadequacy Lack other excessive appetite concentration of Hopelessness physical of Loss hunger Fatigue Insomnia making,disease63
+excessive Hopelessness physical of other concentration decisions Fatigue making appetite Lack hunger of Insomnia symptomsinadequacy Loss,disease63
+hunger Insomnia of physical symptomsinadequacy decisions excessive appetite Fatigue Hopelessness Loss other concentration of making Lack,disease63
+physical of symptomsinadequacy Lack Fatigue Insomnia decisions excessive other concentration Hopelessness making of hunger Loss appetite,disease63
+Fatigue physical hunger of of other Lack decisions making Insomnia appetite Hopelessness excessive symptomsinadequacy Loss concentration,disease63
+excessive of Hopelessness symptomsinadequacy Insomnia Lack concentration appetite hunger making of physical Loss Fatigue other decisions,disease63
+decisions making Insomnia of excessive of Loss appetite Fatigue physical hunger Hopelessness symptomsinadequacy other Lack concentration,disease63
+appetite hunger decisions Lack symptomsinadequacy Hopelessness excessive of making Fatigue concentration Insomnia Loss of physical other,disease63
+Hopelessness Fatigue hunger Insomnia Loss decisions symptomsinadequacy physical excessive making of concentration of Lack other appetite,disease63
+hunger concentration decisions Lack symptomsinadequacy appetite other making Loss excessive physical of of Fatigue Insomnia Hopelessness,disease63
+physical Fatigue appetite Loss of symptomsinadequacy other concentration Hopelessness Insomnia decisions making Lack excessive of hunger,disease63
+Loss decisions excessive making concentration appetite other hunger Fatigue Lack physical Hopelessness of symptomsinadequacy of Insomnia,disease63
+concentration Lack of appetite decisions Insomnia other excessive making physical Fatigue symptomsinadequacy Hopelessness of Loss hunger,disease63
+stomach lightheadedness racing nausea pounding hyperventilation difficulty chest breathing upset dizziness heartbeat pains,disease64
+pains heartbeat lightheadedness stomach difficulty chest nausea pounding upset racing breathing dizziness hyperventilation,disease64
+chest difficulty pounding racing pains hyperventilation heartbeat dizziness upset nausea breathing lightheadedness stomach,disease64
+racing pounding difficulty pains hyperventilation heartbeat chest dizziness lightheadedness stomach nausea breathing upset,disease64
+upset nausea lightheadedness heartbeat difficulty pains racing breathing pounding dizziness chest hyperventilation stomach,disease64
+lightheadedness nausea pounding hyperventilation breathing difficulty heartbeat stomach upset dizziness racing pains chest,disease64
+lightheadedness dizziness nausea chest racing heartbeat pounding stomach pains hyperventilation difficulty breathing upset,disease64
+stomach racing lightheadedness chest pounding hyperventilation heartbeat dizziness difficulty pains nausea breathing upset,disease64
+lightheadedness hyperventilation upset racing chest stomach heartbeat pains breathing dizziness nausea difficulty pounding,disease64
+heartbeat lightheadedness racing dizziness pains breathing upset pounding chest stomach nausea hyperventilation difficulty,disease64
+pounding lightheadedness pains upset stomach heartbeat breathing hyperventilation dizziness difficulty chest nausea racing,disease64
+heartbeat hyperventilation racing chest breathing difficulty lightheadedness pains stomach pounding upset dizziness nausea,disease64
+dizziness lightheadedness stomach chest pains heartbeat difficulty hyperventilation upset pounding racing breathing nausea,disease64
+sleep racing speech f elevated thoughts irritable pressured expansive mood need decreased,disease65
+f mood need speech thoughts elevated pressured sleep expansive decreased racing irritable,disease65
+thoughts pressured elevated racing need mood irritable f expansive decreased speech sleep,disease65
+need thoughts f mood racing expansive decreased speech sleep pressured elevated irritable,disease65
+thoughts speech sleep elevated need decreased pressured irritable mood f expansive racing,disease65
+irritable speech f elevated thoughts decreased racing sleep expansive pressured need mood,disease65
+f sleep irritable mood thoughts expansive racing need decreased pressured speech elevated,disease65
+mood elevated pressured expansive decreased irritable thoughts sleep speech racing need f,disease65
+decreased racing sleep thoughts irritable elevated speech pressured f need mood expansive,disease65
+mood speech pressured elevated f need racing expansive irritable decreased thoughts sleep,disease65
+speech pressured mood thoughts need expansive elevated f sleep irritable racing decreased,disease65
+mood irritable f need racing thoughts speech sleep decreased pressured elevated expansive,disease65
+abdominal pain swelling abdominal upper lower chest pain belching distention discomfort,disease66
+abdominal pain pain belching abdominal lower discomfort upper swelling distention chest,disease66
+abdominal pain chest pain distention swelling belching lower upper abdominal discomfort,disease66
+pain distention lower belching upper swelling discomfort abdominal abdominal pain chest,disease66
+chest abdominal pain abdominal pain upper lower swelling discomfort belching distention,disease66
+chest belching swelling pain lower pain distention discomfort abdominal upper abdominal,disease66
+swelling abdominal pain discomfort abdominal upper belching pain lower distention chest,disease66
+abdominal discomfort abdominal pain belching pain swelling chest upper lower distention,disease66
+lower abdominal belching distention chest pain upper pain discomfort swelling abdominal,disease66
+belching pain upper chest abdominal swelling lower pain abdominal distention discomfort,disease66
+swelling abdominal chest lower upper distention abdominal pain discomfort pain belching,disease66
+vomiting pale with skin along production headache Nausea dizziness saliva fatigue increased,disease67
+pale Nausea along fatigue dizziness increased with skin production vomiting headache saliva,disease67
+with vomiting fatigue skin increased along Nausea dizziness pale production headache saliva,disease67
+increased dizziness fatigue pale skin headache saliva with Nausea production along vomiting,disease67
+with skin headache fatigue saliva vomiting Nausea dizziness along increased production pale,disease67
+production fatigue vomiting headache along with skin Nausea increased dizziness saliva pale,disease67
+fatigue vomiting saliva production dizziness headache skin pale Nausea increased with along,disease67
+increased skin pale along headache production Nausea with vomiting dizziness fatigue saliva,disease67
+pale saliva headache production along increased dizziness fatigue skin Nausea with vomiting,disease67
+with fatigue pale headache dizziness vomiting skin production along saliva increased Nausea,disease67
+fatigue Nausea skin vomiting saliva with dizziness production pale along headache increased,disease67
+with fatigue vomiting saliva along increased dizziness pale skin Nausea headache production,disease67
+confusion breath tired shortness becoming headache easily drowsiness of sleepiness fatigue,disease68
+fatigue tired breath becoming sleepiness headache easily drowsiness confusion shortness of,disease68
+becoming confusion tired sleepiness fatigue easily breath headache shortness of drowsiness,disease68
+confusion tired drowsiness breath fatigue easily shortness becoming sleepiness of headache,disease68
+becoming sleepiness headache tired confusion drowsiness breath shortness of easily fatigue,disease68
+confusion drowsiness fatigue shortness of sleepiness tired headache easily breath becoming,disease68
+headache of sleepiness becoming fatigue easily confusion shortness breath drowsiness tired,disease68
+confusion drowsiness becoming tired headache breath of sleepiness easily shortness fatigue,disease68
+becoming headache sleepiness breath of easily shortness tired fatigue confusion drowsiness,disease68
+easily of fatigue breath confusion becoming tired headache shortness drowsiness sleepiness,disease68
+sleepiness of becoming tired drowsiness easily breath confusion shortness fatigue headache,disease68
+lack jaundice shallow confusion breathing fatigue rapid sleepiness of headache appetite,disease69
+fatigue lack sleepiness headache rapid shallow confusion appetite of jaundice breathing,disease69
+breathing headache confusion appetite of shallow rapid jaundice sleepiness fatigue lack,disease69
+headache sleepiness appetite lack breathing shallow of jaundice confusion fatigue rapid,disease69
+appetite shallow sleepiness headache of fatigue breathing confusion jaundice lack rapid,disease69
+sleepiness confusion rapid shallow appetite of fatigue jaundice headache lack breathing,disease69
+breathing of rapid jaundice appetite shallow fatigue sleepiness confusion lack headache,disease69
+confusion jaundice lack breathing shallow of rapid sleepiness headache fatigue appetite,disease69
+lack confusion fatigue of jaundice breathing headache shallow sleepiness rapid appetite,disease69
+shallow jaundice lack fatigue sleepiness rapid headache appetite breathing of confusion,disease69
+jaundice confusion rapid shallow sleepiness lack of headache appetite breathing fatigue,disease69
+discolored blood low skin headaches muscle general rapid weakness fever breathing fatigue pressure labored,disease70
+fever fatigue labored pressure low rapid discolored weakness blood headaches skin muscle general breathing,disease70
+pressure weakness low fever blood rapid skin fatigue breathing labored discolored muscle headaches general,disease70
+discolored labored muscle general headaches breathing fever blood fatigue low skin pressure rapid weakness,disease70
+breathing discolored weakness rapid low skin headaches fatigue pressure labored general muscle blood fever,disease70
+discolored fatigue weakness pressure blood labored rapid fever muscle headaches low general skin breathing,disease70
+blood fatigue skin muscle labored fever low headaches weakness breathing discolored pressure general rapid,disease70
+fever skin general labored pressure discolored muscle rapid fatigue low breathing blood weakness headaches,disease70
+breathing fever headaches muscle pressure labored rapid weakness discolored skin fatigue low general blood,disease70
+discolored breathing fever headaches weakness muscle rapid pressure skin fatigue low labored blood general,disease70
+fatigue weakness low general skin discolored pressure breathing headaches blood muscle fever rapid labored,disease70
+blood pressure low rapid headaches muscle general fever skin weakness labored discolored fatigue breathing,disease70
+skin rapid fatigue fever blood weakness discolored low labored breathing muscle headaches general pressure,disease70
+muscle rapid pressure skin discolored fever breathing weakness headaches fatigue blood labored low general,disease70
+decreased loss in darkening muscles blood sugar appetite in tiredness skin low irritability depression vomiting levels weakness weight col the nausea fatigue,disease71
+weakness levels sugar tiredness irritability weight muscles fatigue low in darkening appetite decreased blood nausea vomiting the in loss col depression skin,disease71
+nausea fatigue in irritability muscles in weight col skin sugar darkening weakness levels low tiredness appetite blood loss depression decreased vomiting the,disease71
+the darkening blood sugar vomiting fatigue irritability weakness skin decreased depression col appetite weight levels loss low nausea in in tiredness muscles,disease71
+depression in decreased irritability loss levels the sugar vomiting col nausea darkening in muscles weight weakness appetite skin fatigue blood low tiredness,disease71
+blood weakness darkening skin irritability in loss appetite nausea levels tiredness muscles col weight in low fatigue decreased depression the sugar vomiting,disease71
+irritability fatigue muscles vomiting in nausea levels col depression loss blood darkening skin weight tiredness decreased weakness sugar appetite low the in,disease71
+decreased sugar vomiting tiredness the irritability in fatigue loss levels weight muscles in col blood weakness nausea darkening depression appetite low skin,disease71
+weight the irritability depression loss darkening fatigue sugar low in muscles nausea weakness vomiting appetite decreased blood levels col skin in tiredness,disease71
+fatigue appetite loss blood weakness irritability darkening levels sugar low decreased skin depression muscles the in weight in nausea tiredness col vomiting,disease71
+low appetite vomiting muscles fatigue depression skin nausea loss in blood levels weakness tiredness darkening decreased weight col sugar the in irritability,disease71
+muscles appetite the in fatigue vomiting col depression low irritability darkening tiredness in nausea skin loss blood weight sugar decreased weakness levels,disease71
+levels vomiting loss tiredness nausea low muscles in decreased weakness blood sugar weight fatigue darkening the depression in appetite irritability skin col,disease71
+col depression weight loss the muscles darkening in skin fatigue low decreased irritability sugar in weakness levels nausea appetite tiredness blood vomiting,disease71
+skin appetite depression nausea in the levels in sugar tiredness muscles decreased col loss darkening low weight blood vomiting irritability weakness fatigue,disease71
+in weakness low tiredness sugar muscles nausea levels weight appetite blood decreased fatigue col loss skin vomiting the depression irritability darkening in,disease71
+appetite the loss low darkening skin in vomiting nausea tiredness in muscles irritability decreased blood sugar weight depression fatigue levels weakness col,disease71
+in decreased loss weight vomiting tiredness fatigue the levels in muscles blood appetite sugar col weakness nausea low darkening depression irritability skin,disease71
+blood the col weakness nausea appetite depression skin tiredness sugar in fatigue darkening decreased loss irritability low weight levels muscles vomiting in,disease71
+levels irritability in weakness the muscles vomiting col darkening in low fatigue sugar depression weight blood decreased skin tiredness appetite loss nausea,disease71
+col levels loss fatigue vomiting nausea skin in weight low depression in muscles decreased tiredness the darkening weakness appetite irritability sugar blood,disease71
+skin sugar decreased irritability darkening vomiting nausea the depression weight levels loss fatigue in appetite muscles weakness tiredness in col low blood,disease71
+the sudden fear in high back belly restlessness fever confusion lower legs pain,disease72
+restlessness sudden high legs fear in lower confusion fever pain back the belly,disease72
+restlessness in legs fear back confusion lower fever belly sudden high pain the,disease72
+confusion fear belly sudden lower the fever pain in back restlessness legs high,disease72
+fear sudden fever belly high pain legs the back confusion in lower restlessness,disease72
+sudden back high fear pain confusion legs in fever the lower restlessness belly,disease72
+in confusion the sudden lower fever pain back fear legs high belly restlessness,disease72
+confusion fear restlessness belly the pain sudden back high lower legs in fever,disease72
+the back restlessness confusion fever lower fear sudden in pain high legs belly,disease72
+fever restlessness fear high legs sudden confusion back the lower in pain belly,disease72
+sudden lower back restlessness fear in legs confusion pain high the fever belly,disease72
+high the fear legs sudden confusion in belly fever pain back restlessness lower,disease72
+belly back high the confusion sudden legs in fever pain restlessness fear lower,disease72
+physical during up breath of rapid breath swollen short heart legs lower waking of activity rate shortness,disease73
+waking short legs swollen heart of of breath rapid rate during physical lower breath shortness activity up,disease73
+shortness legs physical of swollen during of short heart activity breath rate breath rapid waking lower up,disease73
+during of shortness short heart up of breath rapid breath waking physical lower rate swollen activity legs,disease73
+up waking short shortness swollen breath heart lower legs physical activity of rapid of during breath rate,disease73
+breath rapid of waking breath legs activity during swollen rate short lower heart shortness of physical up,disease73
+breath of shortness waking legs during of rapid breath swollen lower physical short heart rate up activity,disease73
+up waking rapid swollen rate short breath breath physical of during heart shortness of activity legs lower,disease73
+legs swollen breath physical breath waking rapid during of heart lower activity rate shortness short up of,disease73
+rate short of shortness swollen heart rapid up lower physical of activity breath breath legs waking during,disease73
+activity legs during of swollen breath rapid heart shortness short of physical up waking lower breath rate,disease73
+activity during waking physical heart rapid short lower up breath shortness swollen of legs of breath rate,disease73
+waking of lower short breath legs up shortness rate heart activity physical rapid swollen during of breath,disease73
+waking legs activity physical rate shortness short breath breath of during rapid of lower heart swollen up,disease73
+physical legs of rapid activity short shortness rate lower breath swollen during of heart breath waking up,disease73
+activity heart waking shortness breath lower of short rapid legs up rate of breath swollen during physical,disease73
+of breath waking activity up during rapid lower shortness breath physical short legs heart of swollen rate,disease73
+feeling the hands legs in particularly of muscle in feet decreased loss lower function the pain,disease74
+lower feeling function decreased the hands muscle in of legs particularly in pain feet the loss,disease74
+feeling hands in the decreased muscle pain legs particularly in lower loss the of feet function,disease74
+the the pain feeling decreased of lower in loss in particularly legs hands feet muscle function,disease74
+legs the in feeling feet muscle the of function hands lower particularly pain decreased in loss,disease74
+muscle in function the legs of particularly lower decreased in pain feeling loss feet hands the,disease74
+feet in decreased legs particularly hands in of function lower the feeling loss pain muscle the,disease74
+feet hands feeling legs function muscle the loss decreased pain the in of in particularly lower,disease74
+in hands legs decreased feet particularly function the feeling muscle lower loss in pain of the,disease74
+in the loss muscle feet feeling legs in pain particularly of hands lower decreased function the,disease74
+legs in function in hands the particularly muscle feeling decreased feet loss of lower pain the,disease74
+the of decreased hands loss legs muscle pain the particularly feet in function feeling in lower,disease74
+particularly of hands muscle the the feet feeling loss legs pain function decreased in lower in,disease74
+feet the legs function particularly in in of hands feeling lower the muscle pain decreased loss,disease74
+of legs the feeling decreased in hands the pain particularly lower feet function loss in muscle,disease74
+feeling in of particularly legs hands pain function the decreased loss muscle the feet lower in,disease74
+loss eye rapid confusion movement memory double vision,disease75
+vision rapid memory confusion double loss movement eye,disease75
+double loss vision memory eye movement rapid confusion,disease75
+double rapid eye loss vision memory movement confusion,disease75
+memory eye movement double rapid vision confusion loss,disease75
+loss eye rapid memory confusion vision movement double,disease75
+memory vision double movement confusion eye rapid loss,disease75
+rapid eye vision movement memory confusion double loss,disease75
+diarrhea muscle runny malaise sore nose aches throat difficulties cough fever respiratory headache,disease76
+diarrhea sore runny respiratory fever aches difficulties cough muscle throat nose headache malaise,disease76
+fever headache muscle cough sore difficulties respiratory diarrhea aches malaise runny nose throat,disease76
+sore malaise nose respiratory muscle headache fever aches throat difficulties runny cough diarrhea,disease76
+throat malaise muscle aches cough respiratory headache nose diarrhea runny fever difficulties sore,disease76
+throat fever headache respiratory aches runny malaise diarrhea difficulties nose sore cough muscle,disease76
+nose diarrhea malaise sore muscle aches respiratory cough headache fever throat difficulties runny,disease76
+muscle respiratory aches runny malaise headache nose cough difficulties fever throat diarrhea sore,disease76
+respiratory aches fever difficulties nose cough headache diarrhea sore muscle runny malaise throat,disease76
+difficulties diarrhea fever headache throat cough sore respiratory runny nose muscle malaise aches,disease76
+difficulties respiratory aches sore cough diarrhea headache throat malaise runny nose muscle fever,disease76
+muscle runny sore nose fever aches diarrhea malaise throat cough respiratory difficulties headache,disease76
+aches muscle throat cough nose malaise runny diarrhea respiratory fever sore difficulties headache,disease76
+in swelling bones affected weight the bones loss pain fatigued easily broken,disease77
+fatigued loss broken bones pain in affected easily bones weight swelling the,disease77
+fatigued the weight broken easily loss affected swelling in bones bones pain,disease77
+easily swelling loss broken in the affected bones pain weight bones fatigued,disease77
+the broken loss fatigued swelling affected in pain weight bones bones easily,disease77
+bones pain fatigued weight in loss bones easily the swelling affected broken,disease77
+easily the in loss broken swelling bones pain bones fatigued affected weight,disease77
+affected loss broken in easily bones pain the fatigued weight swelling bones,disease77
+easily in swelling broken bones fatigued bones the affected loss weight pain,disease77
+loss bones bones fatigued the weight easily broken affected in pain swelling,disease77
+bones fatigued the affected swelling easily broken bones weight loss pain in,disease77
+broken easily affected bones swelling pain fatigued the in bones loss weight,disease77
+ache to in bone leading pain affected bone dull severe the weakened,disease78
+severe bone pain to dull the affected ache leading bone in weakened,disease78
+leading the in to weakened ache bone affected pain bone severe dull,disease78
+dull in weakened to pain severe bone affected the leading bone ache,disease78
+dull pain bone weakened the affected severe ache in bone leading to,disease78
+bone bone in leading dull ache the weakened severe affected pain to,disease78
+leading bone the dull ache severe in to weakened bone pain affected,disease78
+severe affected bone ache to weakened leading bone dull the pain in,disease78
+bone leading affected pain in dull the bone to ache weakened severe,disease78
+ache pain affected bone in the to weakened bone severe leading dull,disease78
+the pain to leading ache dull in bone affected bone severe weakened,disease78
+leading pain dull severe the ache in bone affected bone weakened to,disease78
+shortness fast breathing appearance skinfatigue bluish breath wheezing cough the ribs of of,disease79
+bluish cough breathing shortness appearance of skinfatigue the ribs of breath fast wheezing,disease79
+ribs fast wheezing of bluish skinfatigue breath shortness of appearance breathing the cough,disease79
+cough bluish of ribs fast of wheezing breath the appearance skinfatigue shortness breathing,disease79
+bluish skinfatigue wheezing ribs of fast of the breathing appearance shortness cough breath,disease79
+ribs breath skinfatigue cough fast bluish shortness the breathing of wheezing appearance of,disease79
+fast of breath the of wheezing ribs skinfatigue appearance breathing bluish cough shortness,disease79
+skinfatigue breathing of wheezing bluish of cough fast the appearance breath ribs shortness,disease79
+breath breathing ribs the wheezing cough appearance bluish shortness of fast of skinfatigue,disease79
+shortness bluish wheezing breathing the of appearance skinfatigue ribs of breath cough fast,disease79
+cough breathing wheezing of breath the bluish ribs of fast appearance skinfatigue shortness,disease79
+breath cough of appearance of ribs skinfatigue the wheezing shortness fast bluish breathing,disease79
+wheezing skinfatigue cough appearance bluish of of the breathing ribs shortness breath fast,disease79
+Ringing Ears in,disease80
+Ears in Ringing,disease80
+sore spots neck a yellow that white jaw have tonsils difficulty a very swallowing stiff stomachaches throat headaches,disease81
+headaches stomachaches that throat neck white spots sore stiff a very yellow swallowing difficulty tonsils have a jaw,disease81
+neck yellow have swallowing difficulty jaw tonsils stiff spots throat that stomachaches a headaches sore white very a,disease81
+sore yellow stomachaches headaches jaw white that difficulty very neck a tonsils swallowing a spots have throat stiff,disease81
+headaches tonsils a stomachaches swallowing jaw neck difficulty yellow throat have sore that spots a very white stiff,disease81
+throat have yellow very stomachaches stiff difficulty jaw sore a spots neck tonsils white a headaches that swallowing,disease81
+white that a throat tonsils jaw spots stomachaches neck headaches have very difficulty swallowing yellow sore stiff a,disease81
+jaw that yellow tonsils sore a a stomachaches stiff very white have neck headaches throat spots swallowing difficulty,disease81
+yellow neck that a have spots sore swallowing headaches jaw stomachaches throat very tonsils a difficulty white stiff,disease81
+difficulty white stomachaches swallowing stiff have a headaches a yellow very neck tonsils spots throat jaw sore that,disease81
+yellow stiff spots that have white headaches throat neck very jaw tonsils swallowing a a sore stomachaches difficulty,disease81
+a headaches have neck stiff a jaw that difficulty stomachaches sore white very throat yellow tonsils swallowing spots,disease81
+white swallowing a very difficulty jaw yellow spots have throat a tonsils stiff sore headaches stomachaches that neck,disease81
+a very jaw yellow neck that white spots a difficulty stiff throat stomachaches headaches tonsils sore swallowing have,disease81
+jaw white that throat spots stomachaches sore tonsils have neck difficulty stiff headaches a swallowing yellow a very,disease81
+stiff sore stomachaches have difficulty neck spots a yellow tonsils a swallowing jaw that very throat headaches white,disease81
+difficulty tonsils sore stiff swallowing headaches spots yellow that a neck jaw throat have stomachaches very white a,disease81
+throat a stomachaches tonsils have white swallowing difficulty a jaw headaches stiff sore spots that neck very yellow,disease81
+ulcer swollen a fatigue ulcer near skin fever headaches the nodes lymph chills skin a,disease82
+skin near ulcer nodes ulcer lymph swollen a the headaches chills fatigue skin a fever,disease82
+ulcer headaches chills skin the ulcer swollen fatigue nodes skin near fever a a lymph,disease82
+near chills swollen ulcer fever ulcer nodes skin a fatigue headaches lymph skin a the,disease82
+skin a headaches fatigue ulcer lymph the skin nodes fever chills ulcer swollen near a,disease82
+skin a nodes skin chills ulcer ulcer fatigue swollen a near the lymph headaches fever,disease82
+ulcer chills the a ulcer fever nodes skin skin near fatigue headaches lymph swollen a,disease82
+the a fever lymph fatigue near nodes ulcer skin a ulcer headaches skin chills swollen,disease82
+a skin ulcer lymph skin a fever swollen the near fatigue nodes headaches ulcer chills,disease82
+ulcer skin near a the ulcer chills skin lymph a nodes fatigue headaches fever swollen,disease82
+swollen near nodes ulcer lymph a headaches skin the fever ulcer chills skin a fatigue,disease82
+near fever chills skin lymph a headaches the ulcer swollen nodes skin ulcer a fatigue,disease82
+headaches near fever chills lymph nodes a fatigue skin the skin swollen ulcer ulcer a,disease82
+skin a the fever near headaches fatigue lymph skin swollen ulcer a nodes ulcer chills,disease82
+chills nodes ulcer a skin near fatigue swollen skin lymph headaches a ulcer the fever,disease82
+appetite fatigue loss unexplained sweats night loss fever weight,disease83
+appetite loss unexplained fever night weight fatigue loss sweats,disease83
+fatigue appetite weight loss night sweats fever unexplained loss,disease83
+unexplained fever fatigue sweats loss loss appetite weight night,disease83
+weight fatigue sweats loss fever loss unexplained night appetite,disease83
+appetite fever fatigue sweats night weight loss unexplained loss,disease83
+fever loss appetite sweats unexplained weight night fatigue loss,disease83
+loss fever loss night weight sweats fatigue appetite unexplained,disease83
+appetite loss loss unexplained night fatigue sweats fever weight,disease83
+pressure back rash fever pain muscle chest eye low blood severe severe headache high sensitivity,disease84
+severe severe pain pressure blood fever rash low muscle eye back chest sensitivity high headache,disease84
+fever headache pain severe eye high chest sensitivity severe blood muscle rash pressure low back,disease84
+pain sensitivity high severe back rash pressure muscle eye fever chest blood low headache severe,disease84
+low blood pain severe fever chest headache muscle pressure severe eye rash high sensitivity back,disease84
+fever eye high blood muscle severe back headache rash severe chest pain sensitivity pressure low,disease84
+fever rash headache low high severe sensitivity pressure muscle pain eye back blood severe chest,disease84
+sensitivity back eye rash high chest blood low severe pressure pain muscle headache fever severe,disease84
+severe rash chest blood low fever severe pressure back sensitivity high pain headache muscle eye,disease84
+pressure blood fever pain eye low high severe headache muscle severe rash sensitivity back chest,disease84
+pain sensitivity severe pressure blood muscle back chest rash severe low fever eye headache high,disease84
+back low sensitivity fever pressure blood chest headache eye high severe muscle rash pain severe,disease84
+low pain eye blood sensitivity high headache chest severe rash pressure muscle back severe fever,disease84
+eye rash pain headache sensitivity blood high low severe chest muscle fever pressure back severe,disease84
+pressure eye sensitivity high rash fever low chest muscle severe severe pain headache back blood,disease84
+weight clots loss pain lower loss blood depression back of appetite stomach abdominal,disease85
+stomach appetite back loss pain depression abdominal blood of weight lower loss clots,disease85
+abdominal depression back pain loss clots lower of weight stomach appetite blood loss,disease85
+loss stomach abdominal blood of weight appetite depression loss back lower pain clots,disease85
+loss pain of lower abdominal blood depression clots loss appetite weight back stomach,disease85
+clots lower depression stomach loss loss of blood abdominal appetite pain weight back,disease85
+pain weight appetite blood depression of abdominal stomach back lower loss clots loss,disease85
+blood clots weight abdominal of back appetite loss pain depression lower stomach loss,disease85
+lower stomach appetite clots of depression back blood weight abdominal loss pain loss,disease85
+stomach pain of appetite weight clots abdominal loss lower depression blood loss back,disease85
+stomach abdominal loss blood clots back pain depression loss weight lower of appetite,disease85
+blood of loss abdominal stomach loss weight depression pain clots appetite back lower,disease85
+clots loss appetite of back weight pain loss abdominal stomach lower depression blood,disease85
+in vomiting pain depression kidney bone nausea lethargy muscles your stones fractures confusion,disease86
+in confusion pain lethargy stones depression muscles fractures your bone nausea vomiting kidney,disease86
+stones in lethargy depression muscles bone pain nausea vomiting kidney confusion your fractures,disease86
+pain kidney in bone stones vomiting your muscles fractures nausea confusion depression lethargy,disease86
+fractures stones bone pain kidney depression in nausea vomiting confusion lethargy muscles your,disease86
+in lethargy vomiting pain kidney depression stones muscles bone fractures confusion nausea your,disease86
+pain kidney vomiting nausea fractures depression bone muscles your confusion stones lethargy in,disease86
+bone muscles pain confusion depression nausea vomiting kidney in stones lethargy your fractures,disease86
+stones depression confusion fractures kidney in muscles bone lethargy nausea your vomiting pain,disease86
+stones lethargy vomiting fractures your confusion pain in kidney bone nausea depression muscles,disease86
+confusion kidney bone your vomiting pain nausea stones in fractures depression muscles lethargy,disease86
+lethargy nausea bone depression in muscles pain confusion kidney your fractures vomiting stones,disease86
+muscles depression pain fractures vomiting nausea kidney your lethargy confusion in stones bone,disease86
+shape changes redness your texture the of nail blisters of nail pus filled detachment skin in color,disease87
+nail color of in the filled of pus nail redness shape blisters skin detachment your texture changes,disease87
+detachment the of skin of changes nail blisters texture nail shape redness pus your in color filled,disease87
+the pus in shape changes of detachment color your texture of filled redness nail blisters nail skin,disease87
+of color blisters in shape redness texture nail of filled skin your detachment pus nail the changes,disease87
+changes blisters nail redness detachment texture in of of shape color your skin the pus filled nail,disease87
+changes your redness skin texture filled pus of nail the nail blisters detachment shape of color in,disease87
+shape color texture filled the in blisters changes your detachment skin of pus redness of nail nail,disease87
+nail nail shape texture detachment blisters pus skin of redness color in changes of the your filled,disease87
+the your nail blisters of in redness of pus changes color nail filled texture shape skin detachment,disease87
+of the shape nail pus color of filled blisters detachment changes redness in nail skin your texture,disease87
+in shape color of redness nail detachment pus of your skin blisters nail texture the changes filled,disease87
+nail redness texture your shape the changes of blisters color in skin pus filled detachment of nail,disease87
+shape color in pus of filled nail blisters changes redness skin your texture the detachment of nail,disease87
+your of redness blisters changes of nail color in the nail texture skin shape pus detachment filled,disease87
+changes the redness nail filled of pus color shape detachment skin blisters nail in of your texture,disease87
+your detachment in the color pus nail filled of shape nail blisters texture of redness changes skin,disease87
+What is the incubation period of the corona virus disease?,incubationcorona
+Who is most at risk for the corona virus disease?,corona
+Is the corona virus disease the same as SARS?,corona
+What is a corona virus?,corona
+Can humans become infected with a novel corona virus of animal source?,corona
+What are the symptoms of someone infected with a corona virus?,symptomscorona
+Can corona viruse be transmitted from person to person?,corona
+Is there a vaccine for a novel corona virus?,vaccine
+Is there a treatment for a novel corona virus?,treatmentcorona
+What can I do to protect myself?,protect
+Are health workers at risk from a novel corona virus?,workerrisk
+What WHO recommendations for countries?,WHO
+Is My Child at Risk for corona virus (COVID-19)?,riskcorona
+What Should I Do if a Family Member Has Symptoms of corona virus (COVID-19)?,symptomscorona
+How Do Doctors Test People for corona virus (COVID-19)?,testdoctor
+Where Can I Get Updated Information on corona virus (COVID-19)?,corona
+What is COVID-19? What is SARS-CoV-2?,covidSARS
+Where do corona viruses come from?,corona
+Is this virus comparable to SARS or to the seasonal flu?,SARS
+What is the mode of transmission of corona virus?,transmissioncorona
+When is a person infectious?,infectious
+How severe is COVID-19 infection?  ,infection
+Are some people more at risk than others?,risk
+Are children also at risk of infection and what is their potential role in transmission of covid19?,risktransmission
+What is the risk of infection in pregnant women and neonates?,riskpregnant
+When should I be tested for COVID-19?,testcovid
+Where can I get tested?,test
+Do persons suffering from pollen allergy or allergies in general have a higher risk to develop severe disease when having COVID-19?,allergycovid
+How can we differentiate between hay fever/pollen allergy related respiratory symptoms and COVID-19 infection?,allergycovid
+Should people who suffer from pollen allergy self-isolate if they develop typical hay fever symptoms?,allergysymptoms
+How can I avoid getting infected?,avoidinfecting
+How can I avoid infecting others?,avoidinfecting
+What is physical distancing and why and how should I do it?,distancing
+ Are face masks effective in protecting against COVID-19?,maskcovid
+How long will it take to develop a vaccine?,vaccine
+Am I protected against COVID-19 if I had the influenza vaccine this year?,covidinfluenza
+What is the situation in Europe at the moment?,europecovid
+How prepared is Europe for COVID-19? ,europecovid
+What is the EU doing?,EU
+How many people have been infected in the EU/EEA?,EU
+How long will this outbreak last? When will we see the peak?,peak
+Should schools and day centres be closed?,schools
+What are the travel restrictions in the European Union?,restriction
+What precautions should I take if I need to travel?,travel
+What is the risk of infection when travelling by plane?,travel
+" Are people working in the supply chain including logistics, control services, retail, etc. at risk of getting COVID-19 by handling packages? What measures can be taken to reduce the risk of getting infected in this type of work setting?",risk
+What is the risk of COVID-19 infection from food products imported from affected areas?,food
+What is the risk of COVID-19 infection from animals or animal products imported from affected areas?,animal
+I have a lung condition; am I at more risk of getting COVID-19 than somebody who doesn’t have a lung condition?,lung
+Please can you provide detailed information about who is at high risk from a respiratory standpoint?,risk
+Are there any additional measures that I should take to limit my risk of getting sick as I have a lung condition?,measure
+Should I consider self-isolating to avoid catching the virus?,isolate
+Am I safe outside of the house provided I avoid crowded areas e.g. can I go to the park or walk outside?,safe
+Are people with respiratory disease more likely to die of COVID-19 than those without?,covid
+"As part of my condition, I regularly have a dry cough and fever – is there a way to distinguish these symptoms with those of COVID-19?",fever
+Should I wear a mask to protect myself from the virus?,mask
+Can I catch COVID-19 from my pet?,covid
+My neighbours often smoke in their garden and the smoke comes into my house if the windows are open. Can COVID-19 be transmitted through exhaled smoke?,smoke
+The news says that the worst affected by COVID-19 are the older age population and ‘people’ with pre-existing conditions. Are ‘people with pre-existing conditions’ also older or does this refer to people of any age?,condition
+"I had the flu vaccine this year, am I protected from this virus?",fluvaccine
+"What is being done to protect the vulnerable population (elderly, people with health conditions)?",vulnerable
+What are organisations in Europe doing about the situation?,Europe
+Can the virus that causes COVID-19 be transmitted through the air?,transmissioncorona
+Can I catch COVID-19 from the feces of someone with the disease?,faces
+What can I do to protect myself and prevent the spread of disease,protect
+Protection measures for persons who are in or have recently visited (past 14 days) areas where COVID-19 is spreading,measure
+How likely am I to catch COVID-19?,catch
+Should I worry about COVID-19?,worry
+Are antibiotics effective in preventing or treating the COVID-19?,antibiotic
+Are there any medicines or therapies that can prevent or cure COVID-19,medicine
+Should I wear mask to protect myself,mask
+How to put on use take off and dispose of a mask?,mask
+How long is the incubation period for COVID-19?,incubation
+Can I catch COVID-19 from my pet?,covid
+Is it safe to receive a package from any area where COVID-19 has been reported?,package
+Is there anything I should not do?,notdo
+Can you have COVID-19 and show no symptoms?,symptoms
+Can one get corona virus for a second time?,second
+How long can the virus survive on surfaces?,virus
+How has attention to other major illnesses (like cancer) been affected?,illness
+Is it possible that one day this will happen again?,again
+How to stop infection spreading of covid-19 ?,spread
+What to do if you need medical help ?,medical
+How to protect yourself from coronavirus ?,protect
+Who are the People most at risk ?,risk
+What are the symptoms of someone infected with a corona virus?,symptoms
+How long you should self isolate ?,isolate
+How long to self-isolate if you have symptoms ?,isolate
+What to do If you live with someone who has symptoms?,symptoms
+What should be done to reduce the spread of infection in your home ?,reduceinfection
+How to Treat corona virus symptoms at home ?,symptoms
+Can I take ibuprofen if I have corona virus ?,ibuprofen
+When am I allowed to leave the house?,house
+"Can I go to the dentist, my GP or another medical appointment?",medicalappointment
+Should I stay at home or go to work?,home
+I’m not a critical worker and I can’t work from home. What should I do?,workerhome
+How can I find out if my work is essential or not?,work
+Can I see my friends?,friends
+Can I visit elderly relatives?,relatives
+Can I go out to help a vulnerable person?,vulnerable
+Can I go to park ?,park
+Can I move house?,house
+Can I drive to a national park or other green space to walk?,drive
+What will happen to me if I break the rules?,rules
+What to do if you have symptoms ?,symptoms
+What can I do to prevent catching or spreading the germs ?,spread
+Are the Intercollegiate Halls of Residence open?,intercollegiate
+Is teaching continuing for students?,teaching
+What is corona virus ?,corona
+What is social distancing ?,distancing
+What effect does coronavirus have on pregnant women?,pregnant
+What effect will coronavirus have on my baby if I am diagnosed with the infection?,baby
+Why are pregnant women in a vulnerable group?,vulnerable
+What is the travel advice if I am pregnant?,pregnant
+Should I attend my antenatal and postnatal appointments?,appointment
+"What should I do if I develop a fever or temperature, or both, when I am pregnant?",pregnant
+What impact will corona virus have on my pregnancy?,pregnant
+Will my childbirth choices be affected by the coronavirus pandemic?,child
+Will I be able to have my birth partner with me during labour and birth?,birth
+Will I be able to have my birth partner with me if I am being induced?,birth
+Will my birth partner be able to stay with me if I have a caesarean or instrumental birth that occurs in an operating theatre?,birth
+Is there any advice for birth partners during the corona virus pandemic?,birth
+How will I be tested for corona virus?,testing
+What should I do if I test positive for coronavirus?,testing
+Why would I be asked to self-isolate (as opposed to reducing social contact)?,isolate
+What should I do if I’m asked to self-isolate?,isolate
+How will my care be managed after I have recovered from coronavirus?,corona
+What do I do if I feel unwell or I’m worried about my baby during self-isolation?,baby
+Will being in self-isolation for suspected or confirmed corona virus affect where I give birth?,birth
+Will being in self-isolation for suspected or confirmed coronavirus affect how I give birth?,birth
+What happens if I go into labour during my self-isolation period?,labour
+Could I pass corona virus to my baby?,baby
+Will my baby be tested for coronavirus?,baby
+What is corona virus ?,coronavirus
+"Why is this disease being called corona virus disease 2019, covid-19 ?",coronavirus
+Why might someone blame or avoid individuals and groups (create stigma) because of covid-19 ?,covid
+How can people help stop stigma related to covid-19 ?,stigma
+What is source of corona virus ?,corona
+How does corona virus spread ?,spread
+Why are we seeing rise in cases ?,rise
+Can someone who has covid-19 spread the illness to others ?,spread
+"Can the corona virus can be spread through food, including restaurant take out, refrigerated or frozen packaged food ?",spread
+Can I get sick with covid-19 if its on food ?,covid
+Will warm weather stop the outbreak of covid-19 ?,weather
+What is community spread ?,community
+What temperature kills the virus that causes covid-19 ?,temperature
+Can mosquitoes or tricks spread the virus that causes covid-19 ?,mosquitoes
+How can I protect myself ?,protect
+What should I do if I have had close contact with someone who has covid-19 ?,contact
+Does CDC recommend using face masks or face coverings to prevent covid-19 ?,mask
+Am I at risk for covid-19 from a package or products shipping from China ?,package
+Is it okay for me to donate blood ?,donate
+what is the risk of my child becoming sick with covid-19 ?,childcovid
+How can I protect my child from covid-19 infection ?,childcovid
+Are the symptoms of covid-19 different in children than in adults ?,symptoms
+Should children wear masks ?,childmask
+how do I prepare my children in case of covid-19 outbreak in our community ?,child
+How can my family and I prepare for Covid-19 ?,family
+What steps can my family take to reduce our risk of getting covid-19 ?,family
+What should I do if someone in my house gets sick  with covid-19 ?,sick
+How can I prepare for covid-19 at work ?,work
+Should I use soap and water or hand sanitizer to protect against covid-19 ?,protect
+What cleaning products should I use to protect against covid-19 ?,protect
+Should I make my own sanitizer if I can't find it in the stores ?,sanitizer
+What are the symptoms and complications that covid-19 can cause ?,symptoms
+Who is most at risk for the corona virus disease?,riskcorona
+What should people at higher risk of serious illness with covid-19 do ?,illness
+Can I get covid-19 from my pets or other animals ?,animal
+How can I prevent covid-19 ?,prevent
+What treatments are available for covid-19 ?,treatment
+Are there any vaccines or other medical products to prevent covid-19 ?,vaccine
+Can covid-19 be transmitted by blood transmission ?,transmitted
+Is it safe to donate blood during the corona virus pandemic ?,donate
+Are there any FDA-approved drug products or medicines to treat covid-19 ?,medicine
+Are antibiotics effective in preventing or treating the COVID-19?,antibiotic
+Is there a test for covid-19 ?,testing
+How are people tested for covid-19 ?,testing
+Can I get covid-19 from food worker handling my food ?,spread
+Can animals get covid-19 disease ?,animlas
+Can I get covid-19 from my pets or other animals ?,pets
+what is the median  incubation period of corona virus ?,incubarion
+What is corona virus,coronavirus
+What are the symptoms of COVID-19,symptoms
+How does COVID-19 spread,spread
+Can the virus that causes COVID-19 be transmitted through the air?,spread
+Can CoVID-19 be caught from a person who has no symptoms?,spread
+Can I catch COVID-19 from the feces of someone with the disease?,spread
+What can I do to protect myself from corona virus?,protect
+How likely am I to catch COVID-19?,risk
+Should I worry about COVID-19?,worrycovid
+Who is at risk of developing severe illness,risk
+Are antibiotics effective in preventing or treating the COVID-19?,antibiotic
+Are there any medicines or therapies that can prevent or cure COVID-19 ?,medicine
+Is there a vaccine drug or treatment for COVID-19 ?,vaccine
+Is COVID-19 the same as SARS?,covidSARS
+Should I wear mask to protect myself ?,useofmask
+How to put on use take off and dispose of a mask?,useofmask
+Can humans become infected with the COVID-19 from an animal source?,animalsource
+Can I catch COVID-19 from my pet?,pet
+How long does the virus survive on surfaces?,coronavirus
+Is it safe to receive a package from any area where COVID-19 has been reported?,package
+Do I need to wear a mask every time I step out of the home?,mask
+What is the government doing to contain the spread of COVID-19?,government
+"Where can I go to obtain accurate, scientific, and up-to-date information about coronavirus?",information
+How long is the incubation period for corona virus?,incubation
+What do we know about incubation period of corona virus?,incubation
